@@ -13,9 +13,6 @@ Ce projet contient des scripts Python pour le prétraitement, le nettoyage et l'
 ---
 
 ## Prérequis
-
-Assurez-vous d'avoir installé les bibliothèques nécessaires avant d'exécuter le script :
-pip install pandas 
-pip install numpy 
-pip install statistics
+- **n'oublier pas de installer les bibliotheque :**
+    -**pandas , numpy , statistics**
 ```
