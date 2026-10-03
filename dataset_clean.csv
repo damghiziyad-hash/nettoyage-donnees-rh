@@ -1,301 +1,301 @@
 ID_Employe,Nom_Complet,Genre,Age,Departement,Ville,Pays,Type_Contrat,Date_Embauche,Anciennete_Annees,Salaire_MAD,Note_Performance,Heures_Sup_Mensuelles,Satisfaction_Score,Email,Commentaire_Manager
-EMP0283,Younes Cherkaoui,H,29.0,Marketing,Agadir,Maroc,Stage,2014-12-07,11,8177.17,3.1,10.0,5.8,younes.cherkaoui@entreprise.ma,Bien
-EMP0135,Soufiane El Amrani,H,32.0,Production,Marrakech,Maroc,Stage,2011-11-20,14,8297.49,3.3,6.0,5.5,soufiane.elamrani@entreprise.ma,Bien
-EMP0246,Fouad Kabbaj,H,43.0,Ventes,Marrakech,Maroc,CDI,2005-12-07,20,11006.04,2.0,10.0,6.5,fouad.kabbaj@entreprise.ma,Bien
-EMP0062,Karim Ziani,H,42.0,Marketing,Agadir,Maroc,Freelance,2011-10-22,14,8718.35,3.0,5.0,7.3,karim.ziani@entreprise.ma,Bien
-EMP0097,Youssef Ouahbi,H,28.0,Support,Fès,Maroc,CDI,2017-01-29,9,7921.18,4.0,6.0,8.3,youssef.ouahbi@entreprise.ma,Bien
-EMP0011,Tariq Lahlou,H,28.0,Marketing,Meknès,Maroc,Freelance,2016-01-15,10,10489.34,4.3,13.0,7.9,tariq.lahlou@entreprise.ma,Bien
-EMP0226,Hind Ferhat,F,42.0,Ventes,Fès,Maroc,Stage,2021-11-09,4,8478.0,4.5,7.0,8.3,hind.ferhat@entreprise.ma,Bien
-EMP0154,Amine Chraibi,H,31.0,Logistique,Tanger,Maroc,CDI,2025-03-18,1,6208.85,2.4,11.0,4.5,amine.chraibi@entreprise.ma,Pas bien
-EMP0210,Said Cherkaoui,H,29.0,Ventes,Meknès,Maroc,CDD,2018-11-22,7,9121.21,3.6,13.0,8.4,said.cherkaoui@entreprise.ma,Bien
-EMP0127,Loubna Sbai,F,38.0,Ventes,Meknès,Maroc,Stage,2017-09-15,9,10251.44,2.9,0.0,2.6,loubna.sbai@entreprise.ma,Pas bien
-EMP0171,Amina Lahlou,F,31.0,Finance,Rabat,Maroc,CDD,2025-01-06,1,8718.35,2.4,2.0,3.7,amina.lahlou@entreprise.ma,Pas bien
-EMP0037,Samira Naciri,F,35.0,RH,Marrakech,Maroc,Stage,2023-12-24,2,8662.83,3.3,24.0,5.6,samira.naciri@entreprise.ma,Bien
-EMP0108,Bilal Ferhat,H,18.0,Finance,Oujda,Maroc,Freelance,2026-04-30,0,9047.71,3.8,7.0,8.8,bilal.ferhat@entreprise.ma,Bien
-EMP0016,Mehdi El Amrani,H,22.0,Ventes,Meknès,Maroc,Stage,2022-06-26,4,8333.99,4.2,8.0,3.2,mehdi.elamrani@entreprise.ma,Pas bien
-EMP0051,Karim Berrada,H,29.0,Marketing,Casablanca,Maroc,CDI,2017-05-14,9,11431.95,2.9,7.0,1.2,karim.berrada@entreprise.ma,Pas bien
-EMP0008,Nadia Sbai,F,35.0,Production,Fès,Maroc,CDI,2019-10-18,6,8454.91,3.7,13.0,9.3,nadia.sbai@entreprise.ma,Bien
-EMP0113,Fatima Cherkaoui,F,29.0,Ventes,Oujda,Maroc,CDD,2016-12-04,9,8787.92,2.8,5.0,1.6,fatima.cherkaoui@entreprise.ma,Pas bien
-EMP0189,Mehdi Guerraoui,H,34.0,Ventes,Marrakech,Maroc,Stage,2012-05-31,14,10223.22,4.0,9.0,1.9,mehdi.guerraoui@entreprise.ma,Pas bien
-EMP0093,Tariq Benali,H,18.0,Marketing,Fès,Maroc,CDI,2026-07-10,0,8428.7,2.5,12.0,1.7,tariq.benali@entreprise.ma,Pas bien
-EMP0200,Naima El Amrani,F,25.0,Production,Meknès,Maroc,CDD,2022-12-07,3,6710.19,3.8,3.0,4.9,naima.elamrani@entreprise.ma,Pas bien
-EMP0091,Imane El Amrani,F,48.0,Ventes,Oujda,Maroc,Stage,2011-01-26,15,10309.28,4.8,0.0,8.8,imane.elamrani@entreprise.ma,Bien
-EMP0050,Laila Chraibi,F,47.0,Ventes,Meknès,Maroc,Stage,2014-11-03,11,9913.01,3.5,10.0,5.6,laila.chraibi@entreprise.ma,Bien
-EMP0244,Nadia Mansouri,F,41.0,Ventes,Oujda,Maroc,Stage,2008-04-09,18,11460.37,3.3,10.0,9.3,nadia.mansouri@entreprise.ma,Bien
-EMP0003,Amina Ziani,F,37.0,Ventes,Meknès,Maroc,Stage,2026-07-05,0,4969.38,2.1,4.0,6.5,amina.ziani@entreprise.ma,Bien
-EMP0290,Anas Naciri,H,35.0,Marketing,Agadir,Maroc,Stage,2011-06-14,15,8718.0,3.3,8.0,1.8,anas.naciri@entreprise.ma,Pas bien
-EMP0227,Tariq Naciri,H,44.0,Finance,Agadir,Maroc,CDI,2020-10-23,5,9941.03,3.3,6.0,3.4,tariq.naciri@entreprise.ma,Pas bien
-EMP0112,Nabil Idrissi,H,21.0,Finance,Meknès,Maroc,Stage,2026-05-06,0,9138.19,2.6,9.0,5.3,nabil.idrissi@entreprise.ma,Bien
-EMP0103,Yassine Kabbaj,H,50.0,Support,Meknès,Maroc,Freelance,2018-06-26,8,8205.31,3.5,16.0,1.8,yassine.kabbaj@entreprise.ma,Pas bien
-EMP0004,Sara Idrissi,F,31.0,Production,Meknès,Maroc,CDI,2025-08-08,1,5656.07,2.9,0.0,8.1,sara.idrissi@entreprise.ma,Bien
-EMP0159,Fatima Bennani,F,35.0,Finance,Meknès,Maroc,CDI,2016-10-25,9,12199.96,4.1,4.0,8.2,fatima.bennani@entreprise.ma,Bien
-EMP0087,Rania Ziani,F,37.0,Ventes,Marrakech,Maroc,CDI,21/05/2017,9,8151.21,4.7,8.0,5.7,rania.ziani@entreprise.ma,Bien
-EMP0033,Mohamed Haddad,H,37.0,RH,Rabat,Maroc,CDD,2021-08-21,5,7678.52,5.0,10.0,6.9,inconnu,Bien
-EMP0045,Mohamed Cherkaoui,H,40.0,Production,Marrakech,Maroc,CDD,2025-03-25,1,7158.45,4.3,11.0,9.0,mohamed.cherkaoui@entreprise.ma,Bien
-EMP0126,Ghita Cherkaoui,F,31.0,Marketing,Rabat,Maroc,CDD,2020-01-22,6,8557.88,4.3,13.0,6.8,ghita.cherkaoui@entreprise.ma,Bien
-EMP0052,Rania Lahlou,F,28.0,Logistique,Rabat,Maroc,Freelance,2017-01-08,9,9379.04,3.2,6.0,3.3,rania.lahlou@entreprise.ma,Pas bien
-EMP0082,Amina Ziani,F,41.0,Logistique,Oujda,Maroc,Stage,2016-09-12,10,9481.33,4.1,7.0,8.8,amina.ziani@entreprise.ma,Bien
-EMP0083,Soufiane Idrissi,H,45.0,Production,Fès,Maroc,Stage,2018-04-05,8,7624.66,2.1,16.0,9.7,xxxx,Bien
-EMP0107,Khadija Idrissi,F,35.0,Production,Oujda,Maroc,CDI,2017-01-14,9,7860.3,3.0,2.0,2.6,khadija.idrissi@entreprise.ma,Pas bien
-EMP0064,Siham Kabbaj,F,39.0,Marketing,Rabat,Maroc,Stage,2018-02-13,8,8931.9,2.1,0.0,8.0,siham.kabbaj@entreprise.ma,Bien
-EMP0044,Amine Fassi,H,35.0,IT,Tanger,Maroc,Freelance,2014-12-03,11,11955.77,3.5,13.0,5.5,amine.fassi@entreprise.ma,Bien
-EMP0054,Salma Lahlou,F,38.0,Production,Fès,Maroc,Freelance,2023-04-25,3,8071.08,2.4,19.0,3.2,salma.lahlou@entreprise.ma,Pas bien
-EMP0275,Hicham Sbai,H,35.0,RH,Rabat,Maroc,Freelance,2009-08-29,17,10200.53,2.6,6.0,5.6,hicham.sbai@entreprise.ma,Bien
-EMP0291,Anas Idrissi,H,31.0,RH,Marrakech,Maroc,CDD,2015-01-25,11,8718.35,2.4,2.0,4.6,anas.idrissi@entreprise.ma,Pas bien
-EMP0294,Adil Lahlou,H,35.0,Logistique,Marrakech,Maroc,CDD,2025-12-10,0,5398.03,3.5,2.0,8.0,adil.lahlou@entreprise.ma,Bien
-EMP0005,Rania Guerraoui,F,35.0,Ventes,Rabat,Maroc,Freelance,2025-02-01,1,5610.2,3.1,8.0,6.5,rania.guerraoui@entreprise.ma,Bien
-EMP0181,Zineb Guerraoui,F,30.0,IT,Agadir,Maroc,CDI,2013-11-08,12,12179.03,3.5,15.0,5.3,zineb.guerraoui@entreprise.ma,Bien
-EMP0165,Rachid Idrissi,H,34.0,Finance,Agadir,Maroc,CDI,2018-05-01,8,11045.2,3.5,8.0,3.9,inconnu,Pas bien
-EMP0184,Rachid Ferhat,H,38.0,logistique,Tanger,Maroc,CDI,2006-04-14,20,11372.01,3.5,13.0,7.6,rachid.ferhat@entreprise.ma,Bien
-EMP0027,Omar Idrissi,H,35.0,Marketing,Tanger,Maroc,Freelance,2009-02-11,17,11347.22,2.3,8.0,6.8,omar.idrissi@entreprise.ma,Bien
-EMP0241,Nabil Sbai,H,29.0,Production,Tanger,Maroc,CDD,2018-03-23,8,6941.53,4.8,14.0,6.6,nabil.sbai@entreprise.ma,Bien
-EMP0257,Karim Ouahbi,H,34.0,Production,Tanger,Maroc,CDI,2011-08-08,15,11813.77,3.5,17.0,4.9,karim.ouahbi@entreprise.ma,Pas bien
-EMP0148,Ghita El Amrani,F,19.0,IT,Meknès,Maroc,CDI,2025-03-03,1,8814.06,4.3,7.0,8.2,ghita.elamrani@entreprise.ma,Bien
-EMP0137,Imane Tazi,F,32.0,Marketing,  TANGER  ,Maroc,Freelance,2011-12-27,14,8718.0,5.0,8.0,1.6,imane.tazi@entreprise.ma,Pas bien
-EMP0194,Nabil Haddad,H,40.0,Production,Rabat,Maroc,Stage,2019-03-13,7,8718.35,4.4,15.0,3.5,nabil.haddad@entreprise.ma,Pas bien
-EMP0252,Rachid Cherkaoui,H,45.0,Marketing,Oujda,Maroc,Stage,2011-04-19,15,11009.28,3.3,12.0,3.1,rachid.cherkaoui@entreprise.ma,Pas bien
-EMP0286,Naima Fassi,F,18.0,Ventes,Tanger,Maroc,Freelance,2026-03-16,0,6144.04,2.8,0.0,8.1,naima.fassi@entreprise.ma,Bien
-EMP0207,Imane Sbai,F,25.0,Logistique,Meknès,Maroc,Stage,2020-02-13,6,7075.12,4.9,11.0,8.2,imane.sbai@entreprise.ma,Bien
-EMP0285,Hicham Ferhat,H,34.0,Support,Meknès,Maroc,Stage,2025-04-01,1,5003.39,3.1,2.0,7.6,hicham.ferhat@entreprise.ma,Bien
-EMP0234,Amina Bennani,f,43.0,Production,Marrakech,Maroc,CDD,2008-04-21,18,10746.1,3.1,8.0,9.4,amina.bennani@entreprise.ma,Bien
-EMP0116,Wafae Mansouri,F,36.0,Logistique,Casablanca,Maroc,CDD,2022-01-15,4,6871.52,3.9,17.0,8.6,wafae.mansouri@entreprise.ma,Bien
-EMP0122,Naima Fassi,F,36.0,Marketing,Tanger,Maroc,CDD,2010-03-02,16,11955.15,2.8,5.0,8.1,naima.fassi@entreprise.ma,Bien
-EMP0119,Hajar Mansouri,F,45.0,Production,Casablanca,Maroc,CDI,2006-01-23,20,10673.54,1.9,1.0,5.2,hajar.mansouri@entreprise.ma,Bien
-EMP0190,Hind Sbai,F,35.0,Support,Meknès,Maroc,Freelance,2012-05-06,14,9326.81,3.4,5.0,7.4,hind.sbai@entreprise.ma,Bien
-EMP0287,Omar Cherkaoui,H,28.0,Finance,Meknès,Maroc,Freelance,2019-08-28,7,8718.0,3.0,18.0,3.3,inconnu,Pas bien
-EMP0085,Wafae Ziani,F,35.0,IT,Marrakech,Maroc,Freelance,2024-04-27,2,8718.0,3.1,11.0,5.1,wafae.ziani@entreprise.ma,Bien
-EMP0057,Ghita Ziani,F,49.0,Support,Oujda,Maroc,CDD,2020-01-08,6,5855.89,3.1,8.0,4.4,ghita.ziani@entreprise.ma,Pas bien
-EMP0298,Nadia Ferhat,F,40.0,IT,Rabat,Maroc,CDI,2010-09-11,16,13118.16,3.5,6.0,2.8,nadia.ferhat@entreprise.ma,Pas bien
-EMP0055,Asmae Cherkaoui,F,46.0,Finance,Meknès,Maroc,CDD,2020-02-23,6,8718.35,3.9,12.0,5.8,asmae.cherkaoui@entreprise.ma,Bien
-EMP0219,Ayoub Ferhat,H,39.0,Ventes,Tanger,Maroc,Stage,2017-07-08,9,8718.35,3.1,3.0,9.7,ayoub.ferhat@entreprise.ma,Bien
-EMP0276,Rachid Ouahbi,H,39.0,Finance,Meknès,Maroc,Stage,2021-11-01,4,9543.19,2.1,4.0,5.6,rachid.ouahbi@entreprise.ma,Bien
-EMP0120,Rachid Alaoui,H,44.0,RH,Rabat,Maroc,Freelance,2013-08-08,13,9575.16,2.2,8.0,9.1,rachid.alaoui@entreprise.ma,Bien
-EMP0231,Hind Lahlou,F,44.0,Finance,Agadir,Maroc,Freelance,2016-04-16,10,10168.08,4.0,1.0,9.7,hind.lahlou@entreprise.ma,Bien
-EMP0282,Omar Benali,H,45.0,Logistique,  MARRAKECH  ,Maroc,CDI,2012-05-31,14,9046.68,4.2,12.0,1.1,omar.benali@entreprise.ma,Pas bien
-EMP0236,Siham Ziani,F,28.0,Marketing,Agadir,Maroc,CDI,2022-12-01,3,8487.3,4.3,6.0,8.0,siham.ziani@entreprise.ma,Bien
-EMP0201,Younes Sbai,H,34.0,Ressources Humaines,Casablanca,Maroc,Freelance,2009-12-24,16,9855.38,3.6,3.0,3.4,younes.sbai@entreprise.ma,Pas bien
-EMP0256,Fouad Naciri,H,46.0,Marketing,Meknès,Maroc,CDD,2019-09-01,7,10548.72,2.3,9.0,4.5,fouad.naciri@entreprise.ma,Pas bien
-EMP0187,Younes Ferhat,H,36.0,IT,Tanger,Maroc,Freelance,2015-11-15,10,11537.15,2.4,12.0,6.7,younes.ferhat@entreprise.ma,Bien
-EMP0274,Fatima Mansouri,F.,32.0,Ventes,Marrakech,Maroc,CDI,2013-09-26,13,9908.06,5.0,6.0,7.9,fatima.mansouri@entreprise.ma,Bien
-EMP0172,Rania Fassi,F,18.0,Marketing,Tanger,Maroc,Stage,2026-08-03,0,6534.08,2.6,12.0,9.5,rania.fassi@entreprise.ma,Bien
-EMP0041,Samira Idrissi,F,36.0,Production,Fès,Maroc,Freelance,2019-10-10,6,6503.41,3.6,10.0,6.1,samira.idrissi@entreprise.ma,Bien
-EMP0007,Rachid Chraibi,H,34.0,Marketing,Fès,Maroc,Freelance,2023-03-15,3,7403.83,4.2,0.0,3.8,rachid.chraibi@entreprise.ma,Pas bien
-EMP0143,Tariq Idrissi,H,41.0,Marketing,Casablanca,Maroc,Stage,2016-07-13,10,9096.76,3.1,10.0,6.9,inconnu,Bien
-EMP0237,Rachid Kabbaj,H,49.0,Support,Casablanca,Maroc,CDI,2016-12-26,9,8112.83,3.3,13.0,5.6,rachid.kabbaj@entreprise.ma,Bien
-EMP0218,Mehdi Bennani,H,39.0,Support,Agadir,Maroc,Stage,2023-10-11,2,8718.0,3.5,12.0,2.2,mehdi.bennani@entreprise.ma,Pas bien
-EMP0156,Imane Naciri,F,53.0,Marketing,Oujda,Maroc,CDD,2021-10-24,4,8256.36,3.6,9.0,2.9,imane.naciri@entreprise.ma,Pas bien
-EMP0293,Laila Sbai,F,45.0,Support,Oujda,Maroc,Stage,2012-08-08,14,9575.16,4.3,3.0,6.6,laila.sbai@entreprise.ma,Bien
-EMP0199,Karim Kabbaj,H,40.0,IT,Marrakech,Maroc,CDD,2006-01-09,20,8718.0,3.7,12.0,8.2,sans-arobase.ma,Bien
-EMP0280,Rania Fassi,F,35.0,Marketing,Casablanca,Maroc,Freelance,2020-07-30,6,7417.01,2.3,13.0,6.6,rania.fassi@entreprise.ma,Bien
-EMP0138,Rania Ferhat,F,27.0,Logistique,Meknès,Maroc,CDI,2017-07-09,9,8589.42,3.4,8.0,2.7,rania.ferhat@entreprise.ma,Pas bien
-EMP0073,Salma Kabbaj,F,21.0,IT,Marrakech,Maroc,CDI,2026-03-29,0,7874.03,2.9,6.0,8.0,salma.kabbaj@entreprise.ma,Bien
-EMP0077,Loubna Mansouri,F,37.0,Logistique,Marrakech,Maroc,CDI,2020-08-18,6,7310.07,3.6,3.0,9.7,inconnu,Bien
-EMP0288,Nabil Alaoui,H,34.0,Ventes,Rabat,Maroc,Freelance,2020-04-09,6,8737.08,4.6,15.0,9.1,nabil.alaoui@entreprise.ma,Bien
-EMP0215,Younes Sbai,H,30.0,Logistique,Fès,Maroc,CDD,2020-10-28,5,8309.19,2.5,0.0,9.9,younes.sbai@entreprise.ma,Bien
-EMP0261,Loubna Guerraoui,F,37.0,RH,Oujda,Maroc,Freelance,2016-05-04,10,8255.28,3.8,13.0,5.8,loubna.guerraoui@entreprise.ma,Bien
-EMP0300,Younes Ziani,H,42.0,Production,Oujda,Maroc,Freelance,2024-11-12,1,5599.08,4.5,7.0,7.6,younes.ziani@entreprise.ma,Bien
-EMP0163,Hind Haddad,F,34.0,RH,Rabat,Maroc,Stage,2015-02-19,11,8421.23,3.8,9.0,2.6,hind.haddad@entreprise.ma,Pas bien
-EMP0034,Imane Naciri,F,41.0,Marketing,Casablanca,Maroc,CDI,2007-11-29,18,11236.4,2.9,1.0,7.7,imane.naciri@entreprise.ma,Bien
-EMP0195,Youssef Lahlou,H,40.0,RH,Tanger,Maroc,CDD,2006-04-11,20,11920.66,5.0,1.0,4.6,youssef.lahlou@entreprise.ma,Pas bien
-EMP0153,Laila Sbai,F,18.0,Finance,Oujda,Maroc,CDI,2025-10-08,0,7476.34,3.0,8.0,2.5,inconnu,Pas bien
-EMP0263,Laila Bennani,F,28.0,IT,Marrakech,Maroc,CDD,2021-04-27,5,10205.38,3.5,8.0,2.6,laila.bennani@entreprise.ma,Pas bien
-EMP0270,Fouad Chraibi,H,42.0,Support,Agadir,Maroc,CDI,2009-10-03,16,9525.01,3.7,7.0,8.7,fouad.chraibi@entreprise.ma,Bien
-EMP0102,Samira Berrada,F,33.0,IT,Casablanca,Maroc,Stage,2024-05-30,2,9461.77,3.5,4.0,3.9,samira.berrada@entreprise.ma,Pas bien
-EMP0047,Hicham El Amrani,H,55.0,Finance,Marrakech,Maroc,Stage,2016-02-29,10,9506.19,4.0,0.0,1.3,hicham.elamrani@entreprise.ma,Pas bien
-EMP0145,Youssef Sbai,H,35.0,Marketing,Casablanca,Maroc,CDD,2017-04-14,9,10677.46,2.6,11.0,3.6,youssef.sbai@entreprise.ma,Pas bien
-EMP0217,Ghita Idrissi,F,33.0,Ventes,Rabat,Maroc,CDD,2011-06-18,15,10956.93,4.0,0.0,9.2,ghita.idrissi@entreprise.ma,Bien
-EMP0114,Hajar Kabbaj,F,29.0,Production,Meknès,Maroc,Freelance,01/12/2027,5,7858.2,4.4,12.0,6.4,hajar.kabbaj@entreprise.ma,Bien
-EMP0213,Hamza Chraibi,H,50.0,Marketing,Agadir,Maroc,Freelance,2006-03-26,20,12849.06,3.5,8.0,2.8,hamza.chraibi@entreprise.ma,Pas bien
-EMP0243,Siham Ziani,F,22.0,Finance,Tanger,Maroc,Stage,2022-01-05,4,8183.68,4.3,22.0,6.5,siham.ziani@entreprise.ma,Bien
-EMP0188,Yassine Bennani,H,48.0,Finance,Meknès,Maroc,Stage,2012-09-05,14,12170.9,3.7,5.0,6.4,yassine.bennani@entreprise.ma,Bien
-EMP0142,Mohamed Lahlou,H,31.0,Marketing,Marrakech,Maroc,CDI,2023-12-10,2,7944.33,4.0,3.0,6.9,mohamed.lahlou@entreprise.ma,Bien
-EMP0067,Naima Benali,F,41.0,Marketing,Casablanca,Maroc,Freelance,2013-03-12,13,8718.35,3.8,8.0,9.6,naima.benali@entreprise.ma,Bien
-EMP0125,Hajar Bennani,F,44.0,RH,Fès,Maroc,Freelance,2012-04-04,14,10091.99,3.3,2.0,8.2,hajar.bennani@entreprise.ma,Bien
-EMP0038,Adil Chraibi,H,35.0,Marketing,Tanger,Maroc,Freelance,2021-05-03,5,9531.74,3.5,7.0,2.6,adil.chraibi@entreprise.ma,Pas bien
-EMP0104,Soufiane Sbai,H,56.0,Logistique,Rabat,Maroc,CDD,2016-04-15,10,9111.63,3.1,17.0,2.1,soufiane.sbai@entreprise.ma,Pas bien
-EMP0269,Sara Ziani,F,18.0,Production,Oujda,Maroc,CDD,2026-02-24,0,6406.39,2.6,0.0,6.4,sara.ziani@entreprise.ma,Bien
-EMP0266,Laila Lahlou,F,30.0,Ventes,Casablanca,Maroc,Stage,2016-12-07,9,7624.28,3.6,12.0,8.6,laila.lahlou@entreprise.ma,Bien
-EMP0013,Amina Fassi,F,25.0,Support,Rabat,Maroc,CDD,31/08/2025,1,4793.03,4.2,16.0,9.0,amina.fassi@entreprise.ma,Bien
-EMP0066,Nabil Fassi,H,31.0,Marketing,Meknès,Maroc,Stage,1980-05-20,1,7959.3,3.5,13.0,8.4,nabil.fassi@entreprise.ma,Bien
-EMP0111,Siham Berrada,F,28.0,Logistique,Marrakech,Maroc,Stage,2019-01-28,7,6106.09,2.2,8.0,2.0,siham.berrada@entreprise.ma,Pas bien
-EMP0010,Khadija Alaoui,F,22.0,IT,Fès,Maroc,Stage,2024-03-03,2,8795.53,2.6,8.0,8.2,khadija.alaoui@entreprise.ma,Bien
-EMP0203,Amina Tazi,F,30.0,Production,Agadir,Maroc,Stage,2024-09-02,2,4560.9,2.2,12.0,7.3,amina.tazi@entreprise.ma,Bien
-EMP0206,Laila Benali,F,27.0,Marketing,Casablanca,Maroc,Stage,2022-03-27,4,8530.13,3.3,7.0,1.7,laila.benali@entreprise.ma,Pas bien
-EMP0151,Imane Tazi,F,36.0,Marketing,Marrakech,Maroc,Freelance,2013-02-08,13,9967.3,3.8,8.0,6.9,imane.tazi@entreprise.ma,Bien
-EMP0025,Naima Idrissi,F,42.0,RH,Meknès,Maroc,Stage,2030-01-15,3,7022.49,4.6,0.0,6.7,naima.idrissi@entreprise.ma,Bien
-EMP0205,Hind Benali,F,34.0,Marketing,Fès,Maroc,Freelance,2025-04-16,1,6823.31,4.7,13.0,6.0,hind.benali@entreprise.ma,Bien
-EMP0197,Bilal Idrissi,H,23.0,Finance,Meknès,Maroc,CDI,2021-11-18,4,8718.35,3.4,14.0,5.6,bilal.idrissi@entreprise.ma,Bien
-EMP0204,Mehdi Kabbaj,H,38.0,Finance,Oujda,Maroc,Stage,2022-08-24,4,9883.1,3.5,4.0,1.9,mehdi.kabbaj@entreprise.ma,Pas bien
-EMP0167,Nabil Benali,H,35.0,Logistique,Rabat,Maroc,Stage,2026-02-01,0,5448.22,4.7,9.0,3.9,nabil.benali@entreprise.ma,Pas bien
-EMP0264,Naima Haddad,F,26.0,Marketing,Rabat,Maroc,CDD,2025-03-03,1,6753.53,2.8,8.0,5.1,naima.haddad@entreprise.ma,Bien
-EMP0049,Meryem Alaoui,F,28.0,Marketing,Marrakech,Maroc,Freelance,2025-10-22,0,7673.17,3.5,4.0,5.9,meryem.alaoui@entreprise.ma,Bien
-EMP0017,Hamza Sbai,H,48.0,Finance,Casablanca,Maroc,Stage,2008-12-31,17,12335.38,2.9,4.0,9.4,hamza.sbai@entreprise.ma,Bien
-EMP0178,Mehdi Naciri,H,27.0,Marketing,Oujda,Maroc,CDD,2020-11-20,5,8881.76,3.2,11.0,2.2,mehdi.naciri@entreprise.ma,Pas bien
-EMP0134,Mehdi Sbai,H,32.0,Ventes,Agadir,Maroc,CDI,2017-03-15,9,9252.51,4.5,3.0,5.1,mehdi.sbai@entreprise.ma,Bien
-EMP0015,Karim Ferhat,H,34.0,Marketing,Fès,Maroc,Freelance,2016-07-31,10,10251.71,1.4,12.0,1.2,karim.ferhat@entreprise.ma,Pas bien
-EMP0259,Khadija Chraibi,F,31.0,Marketing,Tanger,Maroc,Freelance,2018-09-07,8,9337.14,3.0,1.0,3.0,khadija.chraibi@entreprise.ma,Pas bien
-EMP0031,Naima Ferhat,F,37.0,Support,Fès,Maroc,CDD,2022-06-20,4,7125.46,2.5,0.0,7.5,inconnu,Bien
-EMP0281,Omar Idrissi,H,18.0,RH,Meknès,Maroc,Freelance,2026-08-04,0,7747.46,2.4,6.0,4.3,omar.idrissi@entreprise.ma,Pas bien
-EMP0175,Mehdi Chraibi,H,29.0,Support,Fès,Maroc,Stage,07/11/2018,7,6805.62,3.0,15.0,1.5,mehdi.chraibi@entreprise.ma,Pas bien
-EMP0086,Rachid Naciri,H,22.0,Production,Agadir,Maroc,Freelance,2022-12-16,3,7178.39,4.3,17.0,4.2,rachid.naciri@entreprise.ma,Pas bien
-EMP0081,Naima Naciri,F,38.0,Ventes,Rabat,Maroc,Stage,2016-05-24,10,10500.94,4.3,4.0,7.2,inconnu,Bien
-EMP0002,Khadija El Amrani,F,37.0,RH,  CASABLANCA  ,Maroc,CDD,2020-05-29,6,9308.41,3.0,4.0,5.6,khadija.elamrani@entreprise.ma,Bien
-EMP0118,Sara Chraibi,F,39.0,Support,Meknès,Maroc,CDI,2018-04-06,8,8327.94,1.7,10.0,8.9,sara.chraibi@entreprise.ma,Bien
-EMP0196,Rachid Kabbaj,H,43.0,Finance,Casablanca,Maroc,CDI,2011-02-11,15,12084.75,2.9,3.0,1.3,rachid.kabbaj@entreprise.ma,Pas bien
-EMP0133,Nabil Ferhat,H,33.0,Production,Casablanca,Maroc,Stage,2024-03-06,2,6158.5,2.7,0.0,5.8,nabil.ferhat@entreprise.ma,Bien
-EMP0242,Siham Benali,F,18.0,IT,Tanger,Maroc,Stage,2026-09-05,0,8453.61,3.5,14.0,5.3,siham.benali@entreprise.ma,Bien
-EMP0009,Ayoub Alaoui,H,35.0,Finance,Fès,Maroc,CDD,2012-03-17,14,11759.12,2.3,3.0,8.5,ayoub.alaoui@entreprise.ma,Bien
-EMP0019,Amine Kabbaj,H,35.0,RH,Meknès,Maroc,Freelance,2009-07-26,17,12024.92,2.9,6.0,3.1,amine.kabbaj@entreprise.ma,Pas bien
-EMP0173,Yassine Guerraoui,H,43.0,Finance,Tanger,Maroc,Freelance,2006-08-22,20,13328.81,3.5,12.0,6.5,yassine.guerraoui@entreprise.ma,Bien
-EMP0129,Fouad Berrada,H,37.0,Finance,Casablanca,Maroc,Stage,2022-11-08,3,8718.35,5.0,8.0,1.2,fouad.berrada@entreprise.ma,Pas bien
-EMP0084,Younes Idrissi,H,37.0,RH,Oujda,Maroc,CDD,2019-03-02,7,8718.35,1.5,2.0,4.0,younes.idrissi@entreprise.ma,Pas bien
-EMP0176,Adil Haddad,H,31.0,RH,Oujda,Maroc,CDI,2022-02-01,4,7061.14,4.1,14.0,2.4,adil.haddad@entreprise.ma,Pas bien
-EMP0022,Fatima Naciri,F,26.0,Marketing,Rabat,Maroc,CDI,2023-09-22,3,9373.17,3.5,0.0,3.7,fatima.naciri@entreprise.ma,Pas bien
-EMP0006,Ayoub Cherkaoui,h,29.0,Production,Rabat,Maroc,CDI,2017-06-20,9,9007.95,3.7,4.0,5.0,ayoub.cherkaoui@entreprise.ma,Bien
-EMP0249,Hicham Haddad,H,20.0,Support,Tanger,Maroc,CDD,2024-08-24,2,6352.38,3.5,11.0,8.3,hicham.haddad@entreprise.ma,Bien
-EMP0058,Rachid Haddad,H,35.0,Production,Meknès,Maroc,CDD,2024-05-27,2,8378.4,3.8,8.0,2.5,rachid.haddad@entreprise.ma,Pas bien
-EMP0268,Imane Cherkaoui,F,39.0,Production,Marrakech,Maroc,CDD,2007-06-08,19,11215.92,2.6,2.0,4.2,imane.cherkaoui@entreprise.ma,Pas bien
-EMP0232,Adil Haddad,H,37.0,RH,  OUJDA  ,Maroc,CDI,2016-05-26,10,8979.43,4.4,7.0,2.6,adil.haddad@entreprise.ma,Pas bien
-EMP0099,Hicham Tazi,H,35.0,Marketing,Tanger,Maroc,CDI,2025-05-11,1,8843.5,4.8,6.0,1.3,hicham.tazi@entreprise.ma,Pas bien
-EMP0090,Ayoub Fassi,H,35.0,Ventes,Fès,Maroc,CDD,2026-08-28,0,7655.47,4.2,7.0,4.1,ayoub.fassi@entreprise.ma,Pas bien
-EMP0235,Siham Ziani,F,44.0,Support,Casablanca,Maroc,CDI,2017-01-15,9,8699.62,4.0,1.0,4.5,siham.ziani@entreprise.ma,Pas bien
-EMP0149,Ghita Chraibi,F,31.0,RH,Tanger,Maroc,CDI,2020-11-18,5,8204.44,3.7,0.0,6.7,inconnu,Bien
-EMP0209,Salma Ouahbi,F,35.0,Finance,Agadir,Maroc,CDI,2009-05-01,17,12232.45,4.1,10.0,7.4,salma.ouahbi@entreprise.ma,Bien
-EMP0072,Mehdi Lahlou,H,31.0,Production,Fès,Maroc,Freelance,2014-03-17,12,9163.06,3.9,13.0,1.7,inconnu,Pas bien
-EMP0157,Adil Ferhat,H,29.0,Production,Marrakech,Maroc,Freelance,2025-05-05,1,6347.61,5.0,7.0,4.0,adil.ferhat@entreprise.ma,Pas bien
-EMP0254,Rachid Chraibi,H,35.0,Production,Fès,Maroc,Freelance,2011-10-28,14,8874.39,5.0,0.0,2.5,rachid.chraibi@entreprise.ma,Pas bien
-EMP0068,Fatima Sbai,F,52.0,Marketing,  MARRAKECH  ,Maroc,Freelance,2014-02-25,12,10352.18,2.1,5.0,4.0,fatima.sbai@entreprise.ma,Pas bien
-EMP0128,Tariq Benali,H,36.0,Support Client,Meknès,Maroc,CDD,2017-06-01,9,8418.45,2.8,0.0,9.5,tariq.benali@entreprise.ma,Bien
-EMP0144,Hamza Ferhat,H,31.0,Ventes,Rabat,Maroc,CDI,2014-06-30,12,9316.63,4.2,2.0,8.7,hamza.ferhat@entreprise.ma,Bien
-EMP0071,Sara Ziani,F,27.0,Finance,Meknès,Maroc,Stage,2026-05-14,0,8242.89,3.5,4.0,6.6,sara.ziani@entreprise.ma,Bien
-EMP0180,Mehdi Ziani,H,19.0,Finance,Fès,Maroc,Freelance,2025-03-18,1,7744.13,4.2,2.0,5.5,mehdi.ziani@entreprise.ma,Bien
-EMP0140,Ghita Alaoui,F,47.0,Production,Agadir,Maroc,Stage,2022-10-09,3,4622.52,1.8,0.0,5.6,ghita.alaoui@entreprise.ma,Bien
-EMP0092,Mohamed Berrada,Homme,34.0,Marketing,Meknès,Maroc,Freelance,2023-08-23,3,6887.12,3.3,0.0,5.6,mohamed.berrada@entreprise.ma,Bien
-EMP0262,Younes Ziani,H,24.0,Ventes,Agadir,Maroc,CDD,2025-07-29,1,5763.23,4.1,19.0,7.6,younes.ziani@entreprise.ma,Bien
-EMP0075,Soufiane Tazi,H,37.0,Marketing,Fès,Maroc,Stage,2011-10-05,14,8718.35,3.9,17.0,9.7,soufiane.tazi@entreprise.ma,Bien
-EMP0158,Fouad Berrada,H,31.0,IT,Fès,Maroc,Stage,2024-05-08,2,9694.02,3.6,5.0,5.5,fouad.berrada@entreprise.ma,Bien
-EMP0238,Sara Berrada,F,44.0,Production,Casablanca,Maroc,Freelance,2014-03-24,12,9455.96,3.5,11.0,4.9,sara.berrada@entreprise.ma,Pas bien
-EMP0295,Bilal Ferhat,H,39.0,Logistique,Marrakech,Maroc,Stage,2017-07-10,9,9782.0,3.0,13.0,9.8,bilal.ferhat@entreprise.ma,Bien
-EMP0224,Hamza Ouahbi,H,18.0,IT,Tanger,Maroc,Stage,2026-07-23,0,9203.34,3.3,15.0,3.2,hamza.ouahbi@entreprise.ma,Pas bien
-EMP0040,Bilal Tazi,H,30.0,Ressources Humaines,Tanger,Maroc,Stage,2014-12-18,11,10371.64,4.3,5.0,3.9,bilal.tazi@entreprise.ma,Pas bien
-EMP0267,Amina Benali,F,35.0,RH,Tanger,Maroc,Freelance,2012-04-23,14,10814.65,3.7,6.0,2.1,amina.benali@entreprise.ma,Pas bien
-EMP0273,Sara Haddad,F,39.0,Logistique,Casablanca,Maroc,Freelance,2011-12-14,14,8581.23,3.5,7.0,6.8,sara.haddad@entreprise.ma,Bien
-EMP0039,Samira Haddad,F,32.0,I.T,Fès,Maroc,CDI,2015-12-18,10,12071.2,3.9,7.0,9.7,samira.haddad@entreprise.ma,Bien
-EMP0117,Imane Ziani,F,38.0,RH,Casablanca,Maroc,CDD,2010-02-07,16,10670.5,3.1,5.0,2.5,imane.ziani@entreprise.ma,Pas bien
-EMP0098,Rachid Cherkaoui,H,28.0,Support,Marrakech,Maroc,Stage,2024-10-08,1,6213.6,3.1,0.0,5.4,rachid.cherkaoui@entreprise.ma,Bien
-EMP0247,Nadia Haddad,F,35.0,Logistique,Marrakech,Maroc,CDI,2023-10-12,2,7052.62,4.0,6.0,2.6,nadia.haddad@entreprise.ma,Pas bien
-EMP0023,Amine Benali,H,35.0,Production,Marrakech,Maroc,Stage,2024-01-05,2,8470.59,3.5,9.0,5.6,amine.benali@entreprise.ma,Bien
-EMP0155,Imane Ouahbi,F,26.0,Production,Fès,Maroc,Stage,2020-08-30,6,6418.65,2.7,14.0,6.1,imane.ouahbi@entreprise.ma,Bien
-EMP0160,Youssef Chraibi,H,25.0,Marketing,Oujda,Maroc,Stage,2020-02-24,6,9743.59,2.1,14.0,5.6,youssef.chraibi@entreprise.ma,Bien
-EMP0139,Samira Ouahbi,F,34.0,Ventes,Agadir,Maroc,CDD,2024-10-06,1,6315.26,2.9,8.0,8.0,samira.ouahbi@entreprise.ma,Bien
-EMP0260,Mohamed Mansouri,H,35.0,Support,Casablanca,Maroc,CDI,2024-04-29,2,5841.97,2.9,8.0,8.2,mohamed.mansouri@entreprise.ma,Bien
-EMP0026,Naima Ziani,F,27.0,IT,Meknès,Maroc,Stage,2025-08-24,1,8718.35,3.1,13.0,2.7,naima.ziani@entreprise.ma,Pas bien
-EMP0014,Hicham Guerraoui,H,25.0,Ressources Humaines,Oujda,Maroc,Stage,2020-03-14,6,8439.36,4.3,12.0,6.1,hicham.guerraoui@entreprise.ma,Bien
-EMP0146,Khadija Fassi,F,19.0,Logistique,Oujda,Maroc,Freelance,2026-08-23,0,8718.35,2.5,3.0,4.4,khadija.fassi@entreprise.ma,Pas bien
-EMP0214,Fouad Fassi,H,35.0,Support,  OUJDA  ,Maroc,CDI,2021-03-19,5,8718.0,4.4,7.0,7.5,fouad.fassi@entreprise.ma,Bien
-EMP0208,Soufiane Kabbaj,H,30.0,Production,Fès,Maroc,CDI,2014-01-05,12,8644.01,3.7,3.0,7.4,soufiane.kabbaj@entreprise.ma,Bien
-EMP0059,Hamza El Amrani,H,36.0,IT,Rabat,Maroc,Freelance,2019-01-26,7,10269.83,3.6,5.0,9.5,hamza.elamrani@entreprise.ma,Bien
-EMP0248,Anas El Amrani,H.,26.0,Support,Tanger,Maroc,Freelance,2021-02-23,5,7190.83,5.0,9.0,5.6,anas.elamrani@entreprise.ma,Bien
-EMP0212,Amine Mansouri,H,35.0,Production,Tanger,Maroc,Freelance,2024-09-09,2,8718.0,4.0,14.0,5.5,amine.mansouri@entreprise.ma,Bien
-EMP0065,Bilal Lahlou,H.,35.0,Production,Tanger,Maroc,CDD,2009-08-18,17,10088.25,3.5,14.0,7.8,bilal.lahlou@entreprise.ma,Bien
-EMP0080,Ghita Fassi,F,33.0,Logistique,Fès,Maroc,Freelance,2021-01-01,5,5965.95,3.5,0.0,1.7,ghita.fassi@entreprise.ma,Pas bien
-EMP0225,Yassine Lahlou,H,48.0,Marketing,  FÈS  ,Maroc,CDI,2015-01-05,11,10930.18,3.2,5.0,1.3,yassine.lahlou@entreprise.ma,Pas bien
-EMP0053,Bilal Benali,H,50.0,Logistique,Marrakech,Maroc,Stage,2026-01-01,0,6123.99,2.5,13.0,9.6,bilal.benali@entreprise.ma,Bien
-EMP0100,Yassine Cherkaoui,H,42.0,Ventes,Oujda,Maroc,Stage,2012-07-26,14,9209.65,3.5,13.0,5.8,test@@entreprise,Bien
-EMP0035,Loubna Naciri,F,43.0,Production,Agadir,Maroc,CDD,2018-06-14,8,8330.22,4.2,19.0,1.8,loubna.naciri@entreprise.ma,Pas bien
-EMP0079,Younes Lahlou,H,42.0,IT,Rabat,Maroc,Freelance,2013-01-20,13,12396.67,5.0,3.0,3.5,younes.lahlou@entreprise.ma,Pas bien
-EMP0123,Amine Guerraoui,H,40.0,Logistique,Marrakech,Maroc,Freelance,2006-10-15,19,12366.55,3.6,9.0,2.4,amine.guerraoui@entreprise.ma,Pas bien
-EMP0121,Rachid El Amrani,H,42.0,IT,Fès,Maroc,Stage,2016-08-29,10,9731.09,3.7,12.0,2.1,rachid.elamrani@entreprise.ma,Pas bien
-EMP0185,Siham Sbai,F,35.0,IT,Tanger,Maroc,CDD,2015-04-22,11,8718.0,3.4,8.0,4.0,siham.sbai@entreprise.ma,Pas bien
-EMP0179,Mehdi Tazi,H,37.0,Production,Tanger,Maroc,CDI,2024-01-10,2,6767.57,4.0,20.0,1.8,mehdi.tazi@entreprise.ma,Pas bien
-EMP0168,Loubna Mansouri,F,42.0,Logistique,Meknès,Maroc,CDI,2017-07-30,9,8718.35,2.4,11.0,1.2,loubna.mansouri@entreprise.ma,Pas bien
-EMP0221,Ghita Ferhat,F,41.0,Finance,Rabat,Maroc,Stage,2007-08-16,19,10971.17,3.5,0.0,2.5,ghita.ferhat@entreprise.ma,Pas bien
-EMP0070,Mehdi Fassi,H,28.0,IT,Casablanca,Maroc,CDI,2019-11-27,6,10492.95,1.8,18.0,9.0,mehdi.fassi@entreprise.ma,Bien
-EMP0174,Loubna Naciri,F,45.0,Support,Agadir,Maroc,Stage,2007-11-04,18,11296.89,2.2,8.0,5.6,loubna.naciri@entreprise.ma,Bien
-EMP0029,Amine Alaoui,H,27.0,Finance,Oujda,Maroc,CDD,2020-01-21,6,8718.35,4.2,0.0,8.4,amine.alaoui@entreprise.ma,Bien
-EMP0136,Meryem Ouahbi,F,35.0,RH,Casablanca,Maroc,Stage,2022-09-02,4,7874.23,4.4,0.0,6.7,meryem.ouahbi@entreprise.ma,Bien
-EMP0132,Wafae Cherkaoui,F,34.0,Production,Rabat,Maroc,CDD,2023-01-29,3,7374.86,5.0,11.0,4.6,wafae.cherkaoui@entreprise.ma,Pas bien
-EMP0166,Soufiane Ouahbi,H,22.0,FINANCE,Marrakech,Maroc,Stage,2025-03-14,1,9150.83,2.7,15.0,7.5,soufiane.ouahbi@entreprise.ma,Bien
-EMP0043,Bilal Bennani,H,44.0,Support,Meknès,Maroc,CDI,2008-10-02,17,10593.04,2.4,2.0,8.3,bilal.bennani@entreprise.ma,Bien
-EMP0024,Hind Ferhat,F,38.0,Finance,Oujda,Maroc,CDD,2007-12-08,18,12994.1,4.1,1.0,7.9,hind.ferhat@entreprise.ma,Bien
-EMP0297,Wafae Ziani,F,31.0,Finance,Tanger,Maroc,CDD,2015-03-31,11,10578.63,2.7,0.0,5.0,wafae.ziani@entreprise.ma,Bien
-EMP0223,Salma Ziani,F,30.0,Support,Agadir,Maroc,CDD,2016-01-06,10,8277.2,3.5,10.0,3.1,salma.ziani@entreprise.ma,Pas bien
-EMP0183,Tariq Fassi,H,40.0,Production,Meknès,Maroc,CDD,2016-10-26,9,7962.57,4.0,14.0,8.7,tariq.fassi@entreprise.ma,Bien
-EMP0088,Said Tazi,H,36.0,Finance,Oujda,Maroc,Stage,2020-06-07,6,8718.35,4.3,8.0,4.6,said.tazi@entreprise.ma,Pas bien
-EMP0042,Khadija Chraibi,F,37.0,Logistique,Casablanca,Maroc,Stage,2018-09-04,8,7152.85,4.3,8.0,7.7,khadija.chraibi@entreprise.ma,Bien
-EMP0101,Laila Haddad,F,33.0,Support,Casablanca,Maroc,Freelance,2012-08-17,14,8235.57,2.2,9.0,3.4,laila.haddad@entreprise.ma,Pas bien
-EMP0277,Ghita Mansouri,F,26.0,Logistique,Tanger,Maroc,Stage,2024-10-10,1,5934.73,2.5,11.0,6.6,ghita.mansouri@entreprise.ma,Bien
-EMP0095,Meryem Naciri,F,26.0,Logistique,Casablanca,Maroc,CDI,2021-12-08,4,7203.24,3.1,3.0,2.6,meryem.naciri@entreprise.ma,Pas bien
-EMP0076,Fouad Guerraoui,H,21.0,RH,Rabat,Maroc,CDI,2025-04-18,1,6574.69,3.2,10.0,9.7,fouad.guerraoui@entreprise.ma,Bien
-EMP0032,Tariq Ferhat,H,40.0,IT,Casablanca,Maroc,Freelance,2016-08-28,10,12473.66,3.7,13.0,1.1,tariq.ferhat@entreprise.ma,Pas bien
-EMP0191,Anas Guerraoui,H,36.0,Finance,  OUJDA  ,Maroc,Stage,2018-08-31,8,9939.9,4.5,0.0,1.4,anas.guerraoui@entreprise.ma,Pas bien
-EMP0192,Younes Tazi,H,38.0,Ventes,  FÈS  ,Maroc,Freelance,2024-07-04,2,6579.36,3.4,0.0,7.9,younes.tazi@entreprise.ma,Bien
-EMP0094,Karim Ferhat,H,25.0,Logistique,Meknès,Maroc,Stage,2023-01-01,3,8718.0,3.5,6.0,5.3,karim.ferhat@entreprise.ma,Bien
-EMP0046,Adil Ferhat,H,24.0,Logistique,Marrakech,Maroc,CDD,2022-07-08,4,5599.39,3.6,2.0,1.3,inconnu,Pas bien
-EMP0162,Amine Berrada,H,42.0,Support,Oujda,Maroc,Freelance,2013-01-22,13,9244.93,4.5,14.0,8.6,amine.berrada@entreprise.ma,Bien
-EMP0289,Salma Ferhat,F,46.0,Marketing,Meknès,Maroc,CDI,2025-05-10,1,8999.21,3.5,3.0,2.4,salma.ferhat@entreprise.ma,Pas bien
-EMP0109,Youssef Guerraoui,H,29.0,Marketing,Fès,Maroc,CDI,2015-07-08,11,8718.35,3.9,2.0,9.4,youssef.guerraoui@entreprise.ma,Bien
-EMP0106,Said Berrada,H,35.0,Production,Casablanca,Maroc,Freelance,2023-03-03,3,6851.89,3.2,6.0,2.4,said.berrada@entreprise.ma,Pas bien
-EMP0150,Bilal Guerraoui,H,29.0,Production,Fès,Maroc,Freelance,2019-11-25,6,7165.49,2.5,8.0,3.5,bilal.guerraoui@entreprise.ma,Pas bien
-EMP0030,Khadija Bennani,F,47.0,Logistique,Fès,Maroc,Freelance,2026-03-09,0,7831.33,3.2,6.0,9.1,khadija.bennani@entreprise.ma,Bien
-EMP0182,Imane Ferhat,F,45.0,Logistique,Tanger,Maroc,Stage,2017-05-20,9,8324.51,4.6,1.0,6.1,imane.ferhat@entreprise.ma,Bien
-EMP0110,Salma Alaoui,F,53.0,RH,Tanger,Maroc,Freelance,2012-07-29,14,11795.69,4.2,3.0,2.7,salma.alaoui@entreprise.ma,Pas bien
-EMP0164,Siham Cherkaoui,F,42.0,IT,Casablanca,Maroc,CDI,2019-03-08,7,10857.08,3.9,6.0,9.7,siham.cherkaoui@entreprise.ma,Bien
-EMP0028,Bilal Ziani,H,35.0,Marketing,Rabat,Maroc,CDI,2024-02-11,2,8718.0,3.5,7.0,2.2,inconnu,Pas bien
-EMP0105,Naima Kabbaj,F,27.0,Marketing,Casablanca,Maroc,Freelance,2019-12-19,6,6893.76,4.2,19.0,4.2,naima.kabbaj@entreprise.ma,Pas bien
-EMP0061,Youssef Tazi,H,33.0,logistique,Oujda,Maroc,Stage,2019-06-28,7,8020.65,3.7,4.0,1.6,youssef.tazi@entreprise.ma,Pas bien
-EMP0147,Siham Naciri,F,20.0,RH,Marrakech,Maroc,CDI,2025-01-10,1,7734.81,2.5,18.0,6.0,siham.naciri@entreprise.ma,Bien
-EMP0265,Soufiane Lahlou,H,28.0,Marketing,Meknès,Maroc,CDD,2026-05-14,0,8488.87,4.4,11.0,9.3,soufiane.lahlou@entreprise.ma,Bien
-EMP0228,Amine Benali,H,35.0,Ventes,Meknès,Maroc,CDI,2019-12-08,6,7449.97,3.4,1.0,9.4,amine.benali@entreprise.ma,Bien
-EMP0271,Mohamed Ferhat,H,35.0,Marketing,Tanger,Maroc,Stage,2009-07-14,17,8718.35,4.2,6.0,8.8,mohamed.ferhat@entreprise.ma,Bien
-EMP0152,Ghita Mansouri,F,30.0,Logistique,Agadir,Maroc,Freelance,2015-08-10,11,8971.55,4.8,17.0,7.0,ghita.mansouri@entreprise.ma,Bien
-EMP0001,Youssef Berrada,H,39.0,Marketing,Rabat,Maroc,CDI,2019-07-17,7,9139.39,4.0,17.0,2.4,youssef.berrada@entreprise.ma,Pas bien
-EMP0272,Imane Idrissi,F,40.0,Support,Oujda,Maroc,CDI,2024-01-07,2,6479.68,3.1,6.0,4.6,imane.idrissi@entreprise.ma,Pas bien
-EMP0089,Imane Idrissi,F,40.0,Ventes,Tanger,Maroc,Stage,2019-03-26,7,9344.91,2.7,12.0,2.2,imane.idrissi@entreprise.ma,Pas bien
-EMP0078,Samira Tazi,F,55.0,Marketing,  MEKNÈS  ,Maroc,Stage,2014-12-29,11,12074.98,3.5,19.0,6.6,samira.tazi@entreprise.ma,Bien
-EMP0124,Omar Ziani,H,35.0,Ventes,Casablanca,Maroc,Freelance,2019-05-19,7,7596.4,4.7,10.0,8.9,omar.ziani@entreprise.ma,Bien
-EMP0096,Anas Berrada,H,22.0,RH,Tanger,Maroc,CDI,2025-05-25,1,8718.35,3.5,0.0,7.2,anas.berrada@entreprise.ma,Bien
-EMP0012,Bilal Fassi,H,33.0,Marketing,Meknès,Maroc,Stage,2017-12-01,8,9001.22,2.3,14.0,1.6,bilal.fassi@entreprise.ma,Pas bien
-EMP0115,Hind Alaoui,F,18.0,Logistique,Meknès,Maroc,CDI,2026-05-28,0,5162.48,4.0,8.0,8.5,pas_un_email,Bien
-EMP0258,Hicham Kabbaj,H,43.0,Support,Fès,Maroc,Stage,2006-06-19,20,11383.24,3.7,4.0,6.2,hicham.kabbaj@entreprise.ma,Bien
-EMP0220,Karim Idrissi,H,37.0,Finance,Casablanca,Maroc,Stage,2019-01-17,7,10016.81,2.2,7.0,8.8,karim.idrissi@entreprise.ma,Bien
-EMP0253,Meryem Tazi,F,28.0,Logistique,Tanger,Maroc,Stage,2020-04-02,6,8015.94,3.3,15.0,7.0,meryem.tazi@entreprise.ma,Bien
-EMP0299,Hicham Fassi,H,35.0,Marketing,Tanger,Maroc,CDI,2023-09-28,2,8652.59,4.2,4.0,8.8,hicham.fassi@entreprise.ma,Bien
-EMP0279,Rachid Ziani,H.,36.0,Logistique,Marrakech,Maroc,CDD,2009-03-18,17,9780.33,3.0,6.0,7.2,rachid.ziani@entreprise.ma,Bien
-EMP0020,Bilal Haddad,H,46.0,Logistique,Meknès,Maroc,Stage,2019-12-24,6,7066.44,1.4,10.0,3.0,bilal.haddad@entreprise.ma,Pas bien
-EMP0170,Hicham Naciri,H,43.0,Logistique,Meknès,Maroc,Stage,2010-08-19,16,10051.09,2.2,0.0,7.6,hicham.naciri@entreprise.ma,Bien
-EMP0240,Siham Ziani,F,23.0,Ventes,Rabat,Maroc,CDD,12/10/2021,4,8718.35,2.8,17.0,5.0,siham.ziani@entreprise.ma,Bien
-EMP0278,Yassine Ferhat,H,26.0,Logistique,Marrakech,Maroc,CDI,2018-07-23,8,8133.75,2.9,7.0,10.0,yassine.ferhat@entreprise.ma,Bien
-EMP0161,Adil Cherkaoui,H,34.0,Production,Tanger,Maroc,CDD,2024-08-29,2,6996.54,3.5,0.0,8.9,adil.cherkaoui@entreprise.ma,Bien
-EMP0074,Youssef Alaoui,H,18.0,Marketing,Tanger,Maroc,CDD,2026-09-14,0,8756.03,3.3,7.0,5.2,youssef.alaoui@entreprise.ma,Bien
-EMP0018,Fatima Tazi,F,39.0,Production,Casablanca,Maroc,CDD,2017-05-27,9,9176.55,3.7,9.0,2.7,fatima.tazi@entreprise.ma,Pas bien
-EMP0063,Hajar Ziani,F,43.0,Finance,Fès,Maroc,CDD,2011-02-10,15,12495.84,4.2,11.0,3.5,hajar.ziani@entreprise.ma,Pas bien
-EMP0250,Wafae Haddad,F,29.0,logistique,Oujda,Maroc,Stage,2021-06-29,5,7100.95,3.9,8.0,6.4,wafae.haddad@entreprise.ma,Bien
-EMP0229,Hajar Cherkaoui,F,35.0,Ventes,Meknès,Maroc,Stage,2011-05-26,15,8651.44,4.2,10.0,5.1,hajar.cherkaoui@entreprise.ma,Bien
-EMP0239,Tariq Ferhat,H,33.0,Marketing,Fès,Maroc,CDI,2014-12-18,11,10350.46,3.4,8.0,3.9,tariq.ferhat@entreprise.ma,Pas bien
-EMP0230,Salma Benali,F,18.0,Finance,Meknès,Maroc,Freelance,2026-02-11,0,10850.2,2.8,10.0,1.3,salma.benali@entreprise.ma,Pas bien
-EMP0284,Rachid Fassi,H,26.0,Marketing,Fès,Maroc,CDI,2020-04-25,6,8975.25,1.9,20.0,8.6,inconnu,Bien
-EMP0048,Karim Mansouri,H,26.0,IT,Marrakech,Maroc,Freelance,2019-06-05,7,10482.15,4.7,8.0,2.9,karim.mansouri@entreprise.ma,Pas bien
-EMP0251,Laila Guerraoui,F,35.0,Support,Fès,Maroc,Stage,2020-05-22,6,8718.35,2.9,4.0,6.5,laila.guerraoui@entreprise.ma,Bien
-EMP0296,Nabil Naciri,H,48.0,Marketing,Agadir,Maroc,Stage,2010-12-21,15,8718.35,4.1,11.0,6.9,nabil.naciri@entreprise.ma,Bien
-EMP0021,Rania Ziani,F,31.0,Support,Marrakech,Maroc,CDI,2025-05-21,1,5108.18,3.4,10.0,5.7,rania.ziani@entreprise.ma,Bien
-EMP0141,Nabil Berrada,H,31.0,Marketing,Rabat,Maroc,CDD,2025-02-04,1,7452.85,2.4,3.0,5.6,nabil.berrada@entreprise.ma,Bien
-EMP0193,Hicham Chraibi,H,30.0,Marketing,Casablanca,Maroc,Freelance,2019-04-01,7,10754.93,2.3,0.0,2.5,hicham.chraibi@entreprise.ma,Pas bien
-EMP0131,Nadia Idrissi,F,51.0,Finance,Fès,Maroc,CDD,2009-03-25,17,8718.0,4.8,4.0,9.4,nadia.idrissi@entreprise.ma,Bien
-EMP0216,Youssef Bennani,H.,20.0,Support,Rabat,Maroc,Stage,2024-03-10,2,7601.39,3.4,18.0,8.9,youssef.bennani@entreprise.ma,Bien
-EMP0245,Fatima Sbai,F,28.0,Production,Meknès,Maroc,Stage,2016-08-01,10,8275.46,4.0,7.0,3.6,fatima.sbai@entreprise.ma,Pas bien
-EMP0060,Loubna Idrissi,F,18.0,Logistique,Meknès,Maroc,CDD,2026-01-14,0,8718.35,3.0,20.0,5.9,loubna.idrissi@entreprise.ma,Bien
-EMP0222,Wafae Haddad,F,38.0,Marketing,Rabat,Maroc,CDD,2012-12-07,13,8980.52,4.1,0.0,3.9,wafae.haddad@entreprise.ma,Pas bien
-EMP0177,Adil Cherkaoui,H,30.0,RH,Meknès,Maroc,Freelance,2016-08-11,10,10006.35,3.7,0.0,5.6,adil.cherkaoui@entreprise.ma,Bien
-EMP0056,Asmae Ferhat,F,34.0,IT,Meknès,Maroc,Freelance,2017-05-03,9,8718.35,2.5,7.0,4.9,asmae.ferhat@entreprise.ma,Pas bien
-EMP0292,Amina Ferhat,F,41.0,Production,Oujda,Maroc,Stage,2017-03-16,9,9176.25,3.5,5.0,1.9,amina.ferhat@entreprise.ma,Pas bien
-EMP0255,Anas Ferhat,H,35.0,Ventes,Fès,Maroc,CDD,2008-10-07,17,11081.04,3.4,8.0,1.2,anas.ferhat@entreprise.ma,Pas bien
-EMP0198,Amina Cherkaoui,F,37.0,RH,Meknès,Maroc,Freelance,2025-05-25,1,7065.95,4.1,12.0,5.6,amina.cherkaoui@entreprise.ma,Bien
-EMP0069,Bilal Ouahbi,H,45.0,Support,Agadir,Maroc,Freelance,2026-03-09,0,6133.33,4.0,11.0,1.8,bilal.ouahbi@entreprise.ma,Pas bien
-EMP0211,Rania Ziani,F,53.0,IT,Meknès,Maroc,Stage,2014-11-17,11,11198.65,4.9,9.0,1.7,rania.ziani@entreprise.ma,Pas bien
-EMP0233,Ghita Alaoui,F,42.0,Finance,Fès,Maroc,Freelance,2023-08-31,3,9646.55,3.6,10.0,5.5,ghita.alaoui@entreprise.ma,Bien
-EMP0202,Khadija Mansouri,F,29.0,Production,Agadir,Maroc,CDI,2022-09-17,4,7796.6,3.3,7.0,1.7,khadija.mansouri@entreprise.ma,Pas bien
-EMP0169,Nadia Guerraoui,F,35.0,Support,Meknès,Maroc,Stage,2015-08-13,11,9102.38,3.1,16.0,5.3,nadia.guerraoui@entreprise.ma,Bien
-EMP0186,Wafae Idrissi,F,35.0,Marketing,Rabat,Maroc,Stage,2024-07-07,2,8395.96,3.8,10.0,5.6,wafae.idrissi@entreprise.ma,Bien
-EMP0036,Asmae Fassi,F,22.0,Ventes,Rabat,Maroc,CDI,2023-04-17,3,6632.58,4.2,6.0,6.7,asmae.fassi@entreprise.ma,Bien
-EMP0130,Khadija Naciri,F,51.0,Production,Fès,Maroc,Stage,2022-08-10,4,7472.22,3.7,10.0,2.4,khadija.naciri@entreprise.ma,Pas bien
+EMP0283,Younes Cherkaoui,H,29.0,Marketing,Agadir,Maroc,Stage,2014-12-07,11,8177.17,3.1,10.0,5.8,younes.cherkaoui@entreprise.ma,
+EMP0135,Soufiane El Amrani,H,32.0,Production,Marrakech,Maroc,Stage,2011-11-20,14,8297.49,3.3,6.0,5.5,soufiane.elamrani@entreprise.ma,
+EMP0246,Fouad Kabbaj,H,43.0,Ventes,Marrakech,Maroc,CDI,2005-12-07,20,11006.04,2.0,10.0,6.5,fouad.kabbaj@entreprise.ma,
+EMP0062,Karim Ziani,H,42.0,Marketing,Agadir,Maroc,Freelance,2011-10-22,14,8718.35,3.0,5.0,7.3,karim.ziani@entreprise.ma,
+EMP0097,Youssef Ouahbi,H,28.0,Support,Fès,Maroc,CDI,2017-01-29,9,7921.18,4.0,6.0,8.3,youssef.ouahbi@entreprise.ma,
+EMP0011,Tariq Lahlou,H,28.0,Marketing,Meknès,Maroc,Freelance,2016-01-15,10,10489.34,4.3,13.0,7.9,tariq.lahlou@entreprise.ma,
+EMP0226,Hind Ferhat,F,42.0,Ventes,Fès,Maroc,Stage,2021-11-09,4,8478.0,4.5,7.0,8.3,hind.ferhat@entreprise.ma,
+EMP0154,Amine Chraibi,H,31.0,Logistique,Tanger,Maroc,CDI,2025-03-18,1,6208.85,2.4,11.0,4.5,amine.chraibi@entreprise.ma,
+EMP0210,Said Cherkaoui,H,29.0,Ventes,Meknès,Maroc,CDD,2018-11-22,7,9121.21,3.6,13.0,8.4,said.cherkaoui@entreprise.ma,
+EMP0127,Loubna Sbai,F,38.0,Ventes,Meknès,Maroc,Stage,2017-09-15,9,10251.44,2.9,0.0,2.6,loubna.sbai@entreprise.ma,
+EMP0171,Amina Lahlou,F,31.0,Finance,Rabat,Maroc,CDD,2025-01-06,1,8718.35,2.4,2.0,3.7,amina.lahlou@entreprise.ma,
+EMP0037,Samira Naciri,F,35.0,RH,Marrakech,Maroc,Stage,2023-12-24,2,8662.83,3.3,24.0,5.6,samira.naciri@entreprise.ma,
+EMP0108,Bilal Ferhat,H,18.0,Finance,Oujda,Maroc,Freelance,2026-04-30,0,9047.71,3.8,7.0,8.8,bilal.ferhat@entreprise.ma,
+EMP0016,Mehdi El Amrani,H,22.0,Ventes,Meknès,Maroc,Stage,2022-06-26,4,8333.99,4.2,8.0,3.2,mehdi.elamrani@entreprise.ma,
+EMP0051,Karim Berrada,H,29.0,Marketing,Casablanca,Maroc,CDI,2017-05-14,9,11431.95,2.9,7.0,1.2,karim.berrada@entreprise.ma,
+EMP0008,Nadia Sbai,F,35.0,Production,Fès,Maroc,CDI,2019-10-18,6,8454.91,3.7,13.0,9.3,nadia.sbai@entreprise.ma,
+EMP0113,Fatima Cherkaoui,F,29.0,Ventes,Oujda,Maroc,CDD,2016-12-04,9,8787.92,2.8,5.0,1.6,fatima.cherkaoui@entreprise.ma,
+EMP0189,Mehdi Guerraoui,H,34.0,Ventes,Marrakech,Maroc,Stage,2012-05-31,14,10223.22,4.0,9.0,1.9,mehdi.guerraoui@entreprise.ma,
+EMP0093,Tariq Benali,H,18.0,Marketing,Fès,Maroc,CDI,2026-07-10,0,8428.7,2.5,12.0,1.7,tariq.benali@entreprise.ma,
+EMP0200,Naima El Amrani,F,25.0,Production,Meknès,Maroc,CDD,2022-12-07,3,6710.19,3.8,3.0,4.9,naima.elamrani@entreprise.ma,
+EMP0091,Imane El Amrani,F,48.0,Ventes,Oujda,Maroc,Stage,2011-01-26,15,10309.28,4.8,0.0,8.8,imane.elamrani@entreprise.ma,
+EMP0050,Laila Chraibi,F,47.0,Ventes,Meknès,Maroc,Stage,2014-11-03,11,9913.01,3.5,10.0,5.6,laila.chraibi@entreprise.ma,
+EMP0244,Nadia Mansouri,F,41.0,Ventes,Oujda,Maroc,Stage,2008-04-09,18,11460.37,3.3,10.0,9.3,nadia.mansouri@entreprise.ma,
+EMP0003,Amina Ziani,F,37.0,Ventes,Meknès,Maroc,Stage,2026-07-05,0,4969.38,2.1,4.0,6.5,amina.ziani@entreprise.ma,
+EMP0290,Anas Naciri,H,35.0,Marketing,Agadir,Maroc,Stage,2011-06-14,15,8718.0,3.3,8.0,1.8,anas.naciri@entreprise.ma,
+EMP0227,Tariq Naciri,H,44.0,Finance,Agadir,Maroc,CDI,2020-10-23,5,9941.03,3.3,6.0,3.4,tariq.naciri@entreprise.ma,
+EMP0112,Nabil Idrissi,H,21.0,Finance,Meknès,Maroc,Stage,2026-05-06,0,9138.19,2.6,9.0,5.3,nabil.idrissi@entreprise.ma,
+EMP0103,Yassine Kabbaj,H,50.0,Support,Meknès,Maroc,Freelance,2018-06-26,8,8205.31,3.5,16.0,1.8,yassine.kabbaj@entreprise.ma,
+EMP0004,Sara Idrissi,F,31.0,Production,Meknès,Maroc,CDI,2025-08-08,1,5656.07,2.9,0.0,8.1,sara.idrissi@entreprise.ma,
+EMP0159,Fatima Bennani,F,35.0,Finance,Meknès,Maroc,CDI,2016-10-25,9,12199.96,4.1,4.0,8.2,fatima.bennani@entreprise.ma,
+EMP0087,Rania Ziani,F,37.0,Ventes,Marrakech,Maroc,CDI,21/05/2017,9,8151.21,4.7,8.0,5.7,rania.ziani@entreprise.ma,
+EMP0033,Mohamed Haddad,H,37.0,RH,Rabat,Maroc,CDD,2021-08-21,5,7678.52,5.0,10.0,6.9,inconnu,
+EMP0045,Mohamed Cherkaoui,H,40.0,Production,Marrakech,Maroc,CDD,2025-03-25,1,7158.45,4.3,11.0,9.0,mohamed.cherkaoui@entreprise.ma,
+EMP0126,Ghita Cherkaoui,F,31.0,Marketing,Rabat,Maroc,CDD,2020-01-22,6,8557.88,4.3,13.0,6.8,ghita.cherkaoui@entreprise.ma,
+EMP0052,Rania Lahlou,F,28.0,Logistique,Rabat,Maroc,Freelance,2017-01-08,9,9379.04,3.2,6.0,3.3,rania.lahlou@entreprise.ma,
+EMP0082,Amina Ziani,F,41.0,Logistique,Oujda,Maroc,Stage,2016-09-12,10,9481.33,4.1,7.0,8.8,amina.ziani@entreprise.ma,
+EMP0083,Soufiane Idrissi,H,45.0,Production,Fès,Maroc,Stage,2018-04-05,8,7624.66,2.1,16.0,9.7,xxxx,
+EMP0107,Khadija Idrissi,F,35.0,Production,Oujda,Maroc,CDI,2017-01-14,9,7860.3,3.0,2.0,2.6,khadija.idrissi@entreprise.ma,
+EMP0064,Siham Kabbaj,F,39.0,Marketing,Rabat,Maroc,Stage,2018-02-13,8,8931.9,2.1,0.0,8.0,siham.kabbaj@entreprise.ma,
+EMP0044,Amine Fassi,H,35.0,IT,Tanger,Maroc,Freelance,2014-12-03,11,11955.77,3.5,13.0,5.5,amine.fassi@entreprise.ma,
+EMP0054,Salma Lahlou,F,38.0,Production,Fès,Maroc,Freelance,2023-04-25,3,8071.08,2.4,19.0,3.2,salma.lahlou@entreprise.ma,
+EMP0275,Hicham Sbai,H,35.0,RH,Rabat,Maroc,Freelance,2009-08-29,17,10200.53,2.6,6.0,5.6,hicham.sbai@entreprise.ma,
+EMP0291,Anas Idrissi,H,31.0,RH,Marrakech,Maroc,CDD,2015-01-25,11,8718.35,2.4,2.0,4.6,anas.idrissi@entreprise.ma,
+EMP0294,Adil Lahlou,H,35.0,Logistique,Marrakech,Maroc,CDD,2025-12-10,0,5398.03,3.5,2.0,8.0,adil.lahlou@entreprise.ma,
+EMP0005,Rania Guerraoui,F,35.0,Ventes,Rabat,Maroc,Freelance,2025-02-01,1,5610.2,3.1,8.0,6.5,rania.guerraoui@entreprise.ma,
+EMP0181,Zineb Guerraoui,F,30.0,IT,Agadir,Maroc,CDI,2013-11-08,12,12179.03,3.5,15.0,5.3,zineb.guerraoui@entreprise.ma,
+EMP0165,Rachid Idrissi,H,34.0,Finance,Agadir,Maroc,CDI,2018-05-01,8,11045.2,3.5,8.0,3.9,inconnu,
+EMP0184,Rachid Ferhat,H,38.0,logistique,Tanger,Maroc,CDI,2006-04-14,20,11372.01,3.5,13.0,7.6,rachid.ferhat@entreprise.ma,
+EMP0027,Omar Idrissi,H,35.0,Marketing,Tanger,Maroc,Freelance,2009-02-11,17,11347.22,2.3,8.0,6.8,omar.idrissi@entreprise.ma,
+EMP0241,Nabil Sbai,H,29.0,Production,Tanger,Maroc,CDD,2018-03-23,8,6941.53,4.8,14.0,6.6,nabil.sbai@entreprise.ma,
+EMP0257,Karim Ouahbi,H,34.0,Production,Tanger,Maroc,CDI,2011-08-08,15,11813.77,3.5,17.0,4.9,karim.ouahbi@entreprise.ma,
+EMP0148,Ghita El Amrani,F,19.0,IT,Meknès,Maroc,CDI,2025-03-03,1,8814.06,4.3,7.0,8.2,ghita.elamrani@entreprise.ma,
+EMP0137,Imane Tazi,F,32.0,Marketing,  TANGER  ,Maroc,Freelance,2011-12-27,14,8718.0,5.0,8.0,1.6,imane.tazi@entreprise.ma,
+EMP0194,Nabil Haddad,H,40.0,Production,Rabat,Maroc,Stage,2019-03-13,7,8718.35,4.4,15.0,3.5,nabil.haddad@entreprise.ma,
+EMP0252,Rachid Cherkaoui,H,45.0,Marketing,Oujda,Maroc,Stage,2011-04-19,15,11009.28,3.3,12.0,3.1,rachid.cherkaoui@entreprise.ma,
+EMP0286,Naima Fassi,F,18.0,Ventes,Tanger,Maroc,Freelance,2026-03-16,0,6144.04,2.8,0.0,8.1,naima.fassi@entreprise.ma,
+EMP0207,Imane Sbai,F,25.0,Logistique,Meknès,Maroc,Stage,2020-02-13,6,7075.12,4.9,11.0,8.2,imane.sbai@entreprise.ma,
+EMP0285,Hicham Ferhat,H,34.0,Support,Meknès,Maroc,Stage,2025-04-01,1,5003.39,3.1,2.0,7.6,hicham.ferhat@entreprise.ma,
+EMP0234,Amina Bennani,f,43.0,Production,Marrakech,Maroc,CDD,2008-04-21,18,10746.1,3.1,8.0,9.4,amina.bennani@entreprise.ma,
+EMP0116,Wafae Mansouri,F,36.0,Logistique,Casablanca,Maroc,CDD,2022-01-15,4,6871.52,3.9,17.0,8.6,wafae.mansouri@entreprise.ma,
+EMP0122,Naima Fassi,F,36.0,Marketing,Tanger,Maroc,CDD,2010-03-02,16,11955.15,2.8,5.0,8.1,naima.fassi@entreprise.ma,
+EMP0119,Hajar Mansouri,F,45.0,Production,Casablanca,Maroc,CDI,2006-01-23,20,10673.54,1.9,1.0,5.2,hajar.mansouri@entreprise.ma,
+EMP0190,Hind Sbai,F,35.0,Support,Meknès,Maroc,Freelance,2012-05-06,14,9326.81,3.4,5.0,7.4,hind.sbai@entreprise.ma,
+EMP0287,Omar Cherkaoui,H,28.0,Finance,Meknès,Maroc,Freelance,2019-08-28,7,8718.0,3.0,18.0,3.3,inconnu,
+EMP0085,Wafae Ziani,F,35.0,IT,Marrakech,Maroc,Freelance,2024-04-27,2,8718.0,3.1,11.0,5.1,wafae.ziani@entreprise.ma,
+EMP0057,Ghita Ziani,F,49.0,Support,Oujda,Maroc,CDD,2020-01-08,6,5855.89,3.1,8.0,4.4,ghita.ziani@entreprise.ma,
+EMP0298,Nadia Ferhat,F,40.0,IT,Rabat,Maroc,CDI,2010-09-11,16,13118.16,3.5,6.0,2.8,nadia.ferhat@entreprise.ma,
+EMP0055,Asmae Cherkaoui,F,46.0,Finance,Meknès,Maroc,CDD,2020-02-23,6,8718.35,3.9,12.0,5.8,asmae.cherkaoui@entreprise.ma,
+EMP0219,Ayoub Ferhat,H,39.0,Ventes,Tanger,Maroc,Stage,2017-07-08,9,8718.35,3.1,3.0,9.7,ayoub.ferhat@entreprise.ma,
+EMP0276,Rachid Ouahbi,H,39.0,Finance,Meknès,Maroc,Stage,2021-11-01,4,9543.19,2.1,4.0,5.6,rachid.ouahbi@entreprise.ma,
+EMP0120,Rachid Alaoui,H,44.0,RH,Rabat,Maroc,Freelance,2013-08-08,13,9575.16,2.2,8.0,9.1,rachid.alaoui@entreprise.ma,
+EMP0231,Hind Lahlou,F,44.0,Finance,Agadir,Maroc,Freelance,2016-04-16,10,10168.08,4.0,1.0,9.7,hind.lahlou@entreprise.ma,
+EMP0282,Omar Benali,H,45.0,Logistique,  MARRAKECH  ,Maroc,CDI,2012-05-31,14,9046.68,4.2,12.0,1.1,omar.benali@entreprise.ma,
+EMP0236,Siham Ziani,F,28.0,Marketing,Agadir,Maroc,CDI,2022-12-01,3,8487.3,4.3,6.0,8.0,siham.ziani@entreprise.ma,
+EMP0201,Younes Sbai,H,34.0,Ressources Humaines,Casablanca,Maroc,Freelance,2009-12-24,16,9855.38,3.6,3.0,3.4,younes.sbai@entreprise.ma,
+EMP0256,Fouad Naciri,H,46.0,Marketing,Meknès,Maroc,CDD,2019-09-01,7,10548.72,2.3,9.0,4.5,fouad.naciri@entreprise.ma,
+EMP0187,Younes Ferhat,H,36.0,IT,Tanger,Maroc,Freelance,2015-11-15,10,11537.15,2.4,12.0,6.7,younes.ferhat@entreprise.ma,
+EMP0274,Fatima Mansouri,F.,32.0,Ventes,Marrakech,Maroc,CDI,2013-09-26,13,9908.06,5.0,6.0,7.9,fatima.mansouri@entreprise.ma,
+EMP0172,Rania Fassi,F,18.0,Marketing,Tanger,Maroc,Stage,2026-08-03,0,6534.08,2.6,12.0,9.5,rania.fassi@entreprise.ma,
+EMP0041,Samira Idrissi,F,36.0,Production,Fès,Maroc,Freelance,2019-10-10,6,6503.41,3.6,10.0,6.1,samira.idrissi@entreprise.ma,
+EMP0007,Rachid Chraibi,H,34.0,Marketing,Fès,Maroc,Freelance,2023-03-15,3,7403.83,4.2,0.0,3.8,rachid.chraibi@entreprise.ma,
+EMP0143,Tariq Idrissi,H,41.0,Marketing,Casablanca,Maroc,Stage,2016-07-13,10,9096.76,3.1,10.0,6.9,inconnu,
+EMP0237,Rachid Kabbaj,H,49.0,Support,Casablanca,Maroc,CDI,2016-12-26,9,8112.83,3.3,13.0,5.6,rachid.kabbaj@entreprise.ma,
+EMP0218,Mehdi Bennani,H,39.0,Support,Agadir,Maroc,Stage,2023-10-11,2,8718.0,3.5,12.0,2.2,mehdi.bennani@entreprise.ma,
+EMP0156,Imane Naciri,F,53.0,Marketing,Oujda,Maroc,CDD,2021-10-24,4,8256.36,3.6,9.0,2.9,imane.naciri@entreprise.ma,
+EMP0293,Laila Sbai,F,45.0,Support,Oujda,Maroc,Stage,2012-08-08,14,9575.16,4.3,3.0,6.6,laila.sbai@entreprise.ma,
+EMP0199,Karim Kabbaj,H,40.0,IT,Marrakech,Maroc,CDD,2006-01-09,20,8718.0,3.7,12.0,8.2,sans-arobase.ma,
+EMP0280,Rania Fassi,F,35.0,Marketing,Casablanca,Maroc,Freelance,2020-07-30,6,7417.01,2.3,13.0,6.6,rania.fassi@entreprise.ma,
+EMP0138,Rania Ferhat,F,27.0,Logistique,Meknès,Maroc,CDI,2017-07-09,9,8589.42,3.4,8.0,2.7,rania.ferhat@entreprise.ma,
+EMP0073,Salma Kabbaj,F,21.0,IT,Marrakech,Maroc,CDI,2026-03-29,0,7874.03,2.9,6.0,8.0,salma.kabbaj@entreprise.ma,
+EMP0077,Loubna Mansouri,F,37.0,Logistique,Marrakech,Maroc,CDI,2020-08-18,6,7310.07,3.6,3.0,9.7,inconnu,
+EMP0288,Nabil Alaoui,H,34.0,Ventes,Rabat,Maroc,Freelance,2020-04-09,6,8737.08,4.6,15.0,9.1,nabil.alaoui@entreprise.ma,
+EMP0215,Younes Sbai,H,30.0,Logistique,Fès,Maroc,CDD,2020-10-28,5,8309.19,2.5,0.0,9.9,younes.sbai@entreprise.ma,
+EMP0261,Loubna Guerraoui,F,37.0,RH,Oujda,Maroc,Freelance,2016-05-04,10,8255.28,3.8,13.0,5.8,loubna.guerraoui@entreprise.ma,
+EMP0300,Younes Ziani,H,42.0,Production,Oujda,Maroc,Freelance,2024-11-12,1,5599.08,4.5,7.0,7.6,younes.ziani@entreprise.ma,
+EMP0163,Hind Haddad,F,34.0,RH,Rabat,Maroc,Stage,2015-02-19,11,8421.23,3.8,9.0,2.6,hind.haddad@entreprise.ma,
+EMP0034,Imane Naciri,F,41.0,Marketing,Casablanca,Maroc,CDI,2007-11-29,18,11236.4,2.9,1.0,7.7,imane.naciri@entreprise.ma,
+EMP0195,Youssef Lahlou,H,40.0,RH,Tanger,Maroc,CDD,2006-04-11,20,11920.66,5.0,1.0,4.6,youssef.lahlou@entreprise.ma,
+EMP0153,Laila Sbai,F,18.0,Finance,Oujda,Maroc,CDI,2025-10-08,0,7476.34,3.0,8.0,2.5,inconnu,
+EMP0263,Laila Bennani,F,28.0,IT,Marrakech,Maroc,CDD,2021-04-27,5,10205.38,3.5,8.0,2.6,laila.bennani@entreprise.ma,
+EMP0270,Fouad Chraibi,H,42.0,Support,Agadir,Maroc,CDI,2009-10-03,16,9525.01,3.7,7.0,8.7,fouad.chraibi@entreprise.ma,
+EMP0102,Samira Berrada,F,33.0,IT,Casablanca,Maroc,Stage,2024-05-30,2,9461.77,3.5,4.0,3.9,samira.berrada@entreprise.ma,
+EMP0047,Hicham El Amrani,H,55.0,Finance,Marrakech,Maroc,Stage,2016-02-29,10,9506.19,4.0,0.0,1.3,hicham.elamrani@entreprise.ma,
+EMP0145,Youssef Sbai,H,35.0,Marketing,Casablanca,Maroc,CDD,2017-04-14,9,10677.46,2.6,11.0,3.6,youssef.sbai@entreprise.ma,
+EMP0217,Ghita Idrissi,F,33.0,Ventes,Rabat,Maroc,CDD,2011-06-18,15,10956.93,4.0,0.0,9.2,ghita.idrissi@entreprise.ma,
+EMP0114,Hajar Kabbaj,F,29.0,Production,Meknès,Maroc,Freelance,01/12/2027,5,7858.2,4.4,12.0,6.4,hajar.kabbaj@entreprise.ma,
+EMP0213,Hamza Chraibi,H,50.0,Marketing,Agadir,Maroc,Freelance,2006-03-26,20,12849.06,3.5,8.0,2.8,hamza.chraibi@entreprise.ma,
+EMP0243,Siham Ziani,F,22.0,Finance,Tanger,Maroc,Stage,2022-01-05,4,8183.68,4.3,22.0,6.5,siham.ziani@entreprise.ma,
+EMP0188,Yassine Bennani,H,48.0,Finance,Meknès,Maroc,Stage,2012-09-05,14,12170.9,3.7,5.0,6.4,yassine.bennani@entreprise.ma,
+EMP0142,Mohamed Lahlou,H,31.0,Marketing,Marrakech,Maroc,CDI,2023-12-10,2,7944.33,4.0,3.0,6.9,mohamed.lahlou@entreprise.ma,
+EMP0067,Naima Benali,F,41.0,Marketing,Casablanca,Maroc,Freelance,2013-03-12,13,8718.35,3.8,8.0,9.6,naima.benali@entreprise.ma,
+EMP0125,Hajar Bennani,F,44.0,RH,Fès,Maroc,Freelance,2012-04-04,14,10091.99,3.3,2.0,8.2,hajar.bennani@entreprise.ma,
+EMP0038,Adil Chraibi,H,35.0,Marketing,Tanger,Maroc,Freelance,2021-05-03,5,9531.74,3.5,7.0,2.6,adil.chraibi@entreprise.ma,
+EMP0104,Soufiane Sbai,H,56.0,Logistique,Rabat,Maroc,CDD,2016-04-15,10,9111.63,3.1,17.0,2.1,soufiane.sbai@entreprise.ma,
+EMP0269,Sara Ziani,F,18.0,Production,Oujda,Maroc,CDD,2026-02-24,0,6406.39,2.6,0.0,6.4,sara.ziani@entreprise.ma,
+EMP0266,Laila Lahlou,F,30.0,Ventes,Casablanca,Maroc,Stage,2016-12-07,9,7624.28,3.6,12.0,8.6,laila.lahlou@entreprise.ma,
+EMP0013,Amina Fassi,F,25.0,Support,Rabat,Maroc,CDD,31/08/2025,1,4793.03,4.2,16.0,9.0,amina.fassi@entreprise.ma,
+EMP0066,Nabil Fassi,H,31.0,Marketing,Meknès,Maroc,Stage,1980-05-20,1,7959.3,3.5,13.0,8.4,nabil.fassi@entreprise.ma,
+EMP0111,Siham Berrada,F,28.0,Logistique,Marrakech,Maroc,Stage,2019-01-28,7,6106.09,2.2,8.0,2.0,siham.berrada@entreprise.ma,
+EMP0010,Khadija Alaoui,F,22.0,IT,Fès,Maroc,Stage,2024-03-03,2,8795.53,2.6,8.0,8.2,khadija.alaoui@entreprise.ma,
+EMP0203,Amina Tazi,F,30.0,Production,Agadir,Maroc,Stage,2024-09-02,2,4560.9,2.2,12.0,7.3,amina.tazi@entreprise.ma,
+EMP0206,Laila Benali,F,27.0,Marketing,Casablanca,Maroc,Stage,2022-03-27,4,8530.13,3.3,7.0,1.7,laila.benali@entreprise.ma,
+EMP0151,Imane Tazi,F,36.0,Marketing,Marrakech,Maroc,Freelance,2013-02-08,13,9967.3,3.8,8.0,6.9,imane.tazi@entreprise.ma,
+EMP0025,Naima Idrissi,F,42.0,RH,Meknès,Maroc,Stage,2030-01-15,3,7022.49,4.6,0.0,6.7,naima.idrissi@entreprise.ma,
+EMP0205,Hind Benali,F,34.0,Marketing,Fès,Maroc,Freelance,2025-04-16,1,6823.31,4.7,13.0,6.0,hind.benali@entreprise.ma,
+EMP0197,Bilal Idrissi,H,23.0,Finance,Meknès,Maroc,CDI,2021-11-18,4,8718.35,3.4,14.0,5.6,bilal.idrissi@entreprise.ma,
+EMP0204,Mehdi Kabbaj,H,38.0,Finance,Oujda,Maroc,Stage,2022-08-24,4,9883.1,3.5,4.0,1.9,mehdi.kabbaj@entreprise.ma,
+EMP0167,Nabil Benali,H,35.0,Logistique,Rabat,Maroc,Stage,2026-02-01,0,5448.22,4.7,9.0,3.9,nabil.benali@entreprise.ma,
+EMP0264,Naima Haddad,F,26.0,Marketing,Rabat,Maroc,CDD,2025-03-03,1,6753.53,2.8,8.0,5.1,naima.haddad@entreprise.ma,
+EMP0049,Meryem Alaoui,F,28.0,Marketing,Marrakech,Maroc,Freelance,2025-10-22,0,7673.17,3.5,4.0,5.9,meryem.alaoui@entreprise.ma,
+EMP0017,Hamza Sbai,H,48.0,Finance,Casablanca,Maroc,Stage,2008-12-31,17,12335.38,2.9,4.0,9.4,hamza.sbai@entreprise.ma,
+EMP0178,Mehdi Naciri,H,27.0,Marketing,Oujda,Maroc,CDD,2020-11-20,5,8881.76,3.2,11.0,2.2,mehdi.naciri@entreprise.ma,
+EMP0134,Mehdi Sbai,H,32.0,Ventes,Agadir,Maroc,CDI,2017-03-15,9,9252.51,4.5,3.0,5.1,mehdi.sbai@entreprise.ma,
+EMP0015,Karim Ferhat,H,34.0,Marketing,Fès,Maroc,Freelance,2016-07-31,10,10251.71,1.4,12.0,1.2,karim.ferhat@entreprise.ma,
+EMP0259,Khadija Chraibi,F,31.0,Marketing,Tanger,Maroc,Freelance,2018-09-07,8,9337.14,3.0,1.0,3.0,khadija.chraibi@entreprise.ma,
+EMP0031,Naima Ferhat,F,37.0,Support,Fès,Maroc,CDD,2022-06-20,4,7125.46,2.5,0.0,7.5,inconnu,
+EMP0281,Omar Idrissi,H,18.0,RH,Meknès,Maroc,Freelance,2026-08-04,0,7747.46,2.4,6.0,4.3,omar.idrissi@entreprise.ma,
+EMP0175,Mehdi Chraibi,H,29.0,Support,Fès,Maroc,Stage,07/11/2018,7,6805.62,3.0,15.0,1.5,mehdi.chraibi@entreprise.ma,
+EMP0086,Rachid Naciri,H,22.0,Production,Agadir,Maroc,Freelance,2022-12-16,3,7178.39,4.3,17.0,4.2,rachid.naciri@entreprise.ma,
+EMP0081,Naima Naciri,F,38.0,Ventes,Rabat,Maroc,Stage,2016-05-24,10,10500.94,4.3,4.0,7.2,inconnu,
+EMP0002,Khadija El Amrani,F,37.0,RH,  CASABLANCA  ,Maroc,CDD,2020-05-29,6,9308.41,3.0,4.0,5.6,khadija.elamrani@entreprise.ma,
+EMP0118,Sara Chraibi,F,39.0,Support,Meknès,Maroc,CDI,2018-04-06,8,8327.94,1.7,10.0,8.9,sara.chraibi@entreprise.ma,
+EMP0196,Rachid Kabbaj,H,43.0,Finance,Casablanca,Maroc,CDI,2011-02-11,15,12084.75,2.9,3.0,1.3,rachid.kabbaj@entreprise.ma,
+EMP0133,Nabil Ferhat,H,33.0,Production,Casablanca,Maroc,Stage,2024-03-06,2,6158.5,2.7,0.0,5.8,nabil.ferhat@entreprise.ma,
+EMP0242,Siham Benali,F,18.0,IT,Tanger,Maroc,Stage,2026-09-05,0,8453.61,3.5,14.0,5.3,siham.benali@entreprise.ma,
+EMP0009,Ayoub Alaoui,H,35.0,Finance,Fès,Maroc,CDD,2012-03-17,14,11759.12,2.3,3.0,8.5,ayoub.alaoui@entreprise.ma,
+EMP0019,Amine Kabbaj,H,35.0,RH,Meknès,Maroc,Freelance,2009-07-26,17,12024.92,2.9,6.0,3.1,amine.kabbaj@entreprise.ma,
+EMP0173,Yassine Guerraoui,H,43.0,Finance,Tanger,Maroc,Freelance,2006-08-22,20,13328.81,3.5,12.0,6.5,yassine.guerraoui@entreprise.ma,
+EMP0129,Fouad Berrada,H,37.0,Finance,Casablanca,Maroc,Stage,2022-11-08,3,8718.35,5.0,8.0,1.2,fouad.berrada@entreprise.ma,
+EMP0084,Younes Idrissi,H,37.0,RH,Oujda,Maroc,CDD,2019-03-02,7,8718.35,1.5,2.0,4.0,younes.idrissi@entreprise.ma,
+EMP0176,Adil Haddad,H,31.0,RH,Oujda,Maroc,CDI,2022-02-01,4,7061.14,4.1,14.0,2.4,adil.haddad@entreprise.ma,
+EMP0022,Fatima Naciri,F,26.0,Marketing,Rabat,Maroc,CDI,2023-09-22,3,9373.17,3.5,0.0,3.7,fatima.naciri@entreprise.ma,
+EMP0006,Ayoub Cherkaoui,h,29.0,Production,Rabat,Maroc,CDI,2017-06-20,9,9007.95,3.7,4.0,5.0,ayoub.cherkaoui@entreprise.ma,
+EMP0249,Hicham Haddad,H,20.0,Support,Tanger,Maroc,CDD,2024-08-24,2,6352.38,3.5,11.0,8.3,hicham.haddad@entreprise.ma,
+EMP0058,Rachid Haddad,H,35.0,Production,Meknès,Maroc,CDD,2024-05-27,2,8378.4,3.8,8.0,2.5,rachid.haddad@entreprise.ma,
+EMP0268,Imane Cherkaoui,F,39.0,Production,Marrakech,Maroc,CDD,2007-06-08,19,11215.92,2.6,2.0,4.2,imane.cherkaoui@entreprise.ma,
+EMP0232,Adil Haddad,H,37.0,RH,  OUJDA  ,Maroc,CDI,2016-05-26,10,8979.43,4.4,7.0,2.6,adil.haddad@entreprise.ma,
+EMP0099,Hicham Tazi,H,35.0,Marketing,Tanger,Maroc,CDI,2025-05-11,1,8843.5,4.8,6.0,1.3,hicham.tazi@entreprise.ma,
+EMP0090,Ayoub Fassi,H,35.0,Ventes,Fès,Maroc,CDD,2026-08-28,0,7655.47,4.2,7.0,4.1,ayoub.fassi@entreprise.ma,
+EMP0235,Siham Ziani,F,44.0,Support,Casablanca,Maroc,CDI,2017-01-15,9,8699.62,4.0,1.0,4.5,siham.ziani@entreprise.ma,
+EMP0149,Ghita Chraibi,F,31.0,RH,Tanger,Maroc,CDI,2020-11-18,5,8204.44,3.7,0.0,6.7,inconnu,
+EMP0209,Salma Ouahbi,F,35.0,Finance,Agadir,Maroc,CDI,2009-05-01,17,12232.45,4.1,10.0,7.4,salma.ouahbi@entreprise.ma,
+EMP0072,Mehdi Lahlou,H,31.0,Production,Fès,Maroc,Freelance,2014-03-17,12,9163.06,3.9,13.0,1.7,inconnu,
+EMP0157,Adil Ferhat,H,29.0,Production,Marrakech,Maroc,Freelance,2025-05-05,1,6347.61,5.0,7.0,4.0,adil.ferhat@entreprise.ma,
+EMP0254,Rachid Chraibi,H,35.0,Production,Fès,Maroc,Freelance,2011-10-28,14,8874.39,5.0,0.0,2.5,rachid.chraibi@entreprise.ma,
+EMP0068,Fatima Sbai,F,52.0,Marketing,  MARRAKECH  ,Maroc,Freelance,2014-02-25,12,10352.18,2.1,5.0,4.0,fatima.sbai@entreprise.ma,
+EMP0128,Tariq Benali,H,36.0,Support Client,Meknès,Maroc,CDD,2017-06-01,9,8418.45,2.8,0.0,9.5,tariq.benali@entreprise.ma,
+EMP0144,Hamza Ferhat,H,31.0,Ventes,Rabat,Maroc,CDI,2014-06-30,12,9316.63,4.2,2.0,8.7,hamza.ferhat@entreprise.ma,
+EMP0071,Sara Ziani,F,27.0,Finance,Meknès,Maroc,Stage,2026-05-14,0,8242.89,3.5,4.0,6.6,sara.ziani@entreprise.ma,
+EMP0180,Mehdi Ziani,H,19.0,Finance,Fès,Maroc,Freelance,2025-03-18,1,7744.13,4.2,2.0,5.5,mehdi.ziani@entreprise.ma,
+EMP0140,Ghita Alaoui,F,47.0,Production,Agadir,Maroc,Stage,2022-10-09,3,4622.52,1.8,0.0,5.6,ghita.alaoui@entreprise.ma,
+EMP0092,Mohamed Berrada,Homme,34.0,Marketing,Meknès,Maroc,Freelance,2023-08-23,3,6887.12,3.3,0.0,5.6,mohamed.berrada@entreprise.ma,
+EMP0262,Younes Ziani,H,24.0,Ventes,Agadir,Maroc,CDD,2025-07-29,1,5763.23,4.1,19.0,7.6,younes.ziani@entreprise.ma,
+EMP0075,Soufiane Tazi,H,37.0,Marketing,Fès,Maroc,Stage,2011-10-05,14,8718.35,3.9,17.0,9.7,soufiane.tazi@entreprise.ma,
+EMP0158,Fouad Berrada,H,31.0,IT,Fès,Maroc,Stage,2024-05-08,2,9694.02,3.6,5.0,5.5,fouad.berrada@entreprise.ma,
+EMP0238,Sara Berrada,F,44.0,Production,Casablanca,Maroc,Freelance,2014-03-24,12,9455.96,3.5,11.0,4.9,sara.berrada@entreprise.ma,
+EMP0295,Bilal Ferhat,H,39.0,Logistique,Marrakech,Maroc,Stage,2017-07-10,9,9782.0,3.0,13.0,9.8,bilal.ferhat@entreprise.ma,
+EMP0224,Hamza Ouahbi,H,18.0,IT,Tanger,Maroc,Stage,2026-07-23,0,9203.34,3.3,15.0,3.2,hamza.ouahbi@entreprise.ma,
+EMP0040,Bilal Tazi,H,30.0,Ressources Humaines,Tanger,Maroc,Stage,2014-12-18,11,10371.64,4.3,5.0,3.9,bilal.tazi@entreprise.ma,
+EMP0267,Amina Benali,F,35.0,RH,Tanger,Maroc,Freelance,2012-04-23,14,10814.65,3.7,6.0,2.1,amina.benali@entreprise.ma,
+EMP0273,Sara Haddad,F,39.0,Logistique,Casablanca,Maroc,Freelance,2011-12-14,14,8581.23,3.5,7.0,6.8,sara.haddad@entreprise.ma,
+EMP0039,Samira Haddad,F,32.0,I.T,Fès,Maroc,CDI,2015-12-18,10,12071.2,3.9,7.0,9.7,samira.haddad@entreprise.ma,
+EMP0117,Imane Ziani,F,38.0,RH,Casablanca,Maroc,CDD,2010-02-07,16,10670.5,3.1,5.0,2.5,imane.ziani@entreprise.ma,
+EMP0098,Rachid Cherkaoui,H,28.0,Support,Marrakech,Maroc,Stage,2024-10-08,1,6213.6,3.1,0.0,5.4,rachid.cherkaoui@entreprise.ma,
+EMP0247,Nadia Haddad,F,35.0,Logistique,Marrakech,Maroc,CDI,2023-10-12,2,7052.62,4.0,6.0,2.6,nadia.haddad@entreprise.ma,
+EMP0023,Amine Benali,H,35.0,Production,Marrakech,Maroc,Stage,2024-01-05,2,8470.59,3.5,9.0,5.6,amine.benali@entreprise.ma,
+EMP0155,Imane Ouahbi,F,26.0,Production,Fès,Maroc,Stage,2020-08-30,6,6418.65,2.7,14.0,6.1,imane.ouahbi@entreprise.ma,
+EMP0160,Youssef Chraibi,H,25.0,Marketing,Oujda,Maroc,Stage,2020-02-24,6,9743.59,2.1,14.0,5.6,youssef.chraibi@entreprise.ma,
+EMP0139,Samira Ouahbi,F,34.0,Ventes,Agadir,Maroc,CDD,2024-10-06,1,6315.26,2.9,8.0,8.0,samira.ouahbi@entreprise.ma,
+EMP0260,Mohamed Mansouri,H,35.0,Support,Casablanca,Maroc,CDI,2024-04-29,2,5841.97,2.9,8.0,8.2,mohamed.mansouri@entreprise.ma,
+EMP0026,Naima Ziani,F,27.0,IT,Meknès,Maroc,Stage,2025-08-24,1,8718.35,3.1,13.0,2.7,naima.ziani@entreprise.ma,
+EMP0014,Hicham Guerraoui,H,25.0,Ressources Humaines,Oujda,Maroc,Stage,2020-03-14,6,8439.36,4.3,12.0,6.1,hicham.guerraoui@entreprise.ma,
+EMP0146,Khadija Fassi,F,19.0,Logistique,Oujda,Maroc,Freelance,2026-08-23,0,8718.35,2.5,3.0,4.4,khadija.fassi@entreprise.ma,
+EMP0214,Fouad Fassi,H,35.0,Support,  OUJDA  ,Maroc,CDI,2021-03-19,5,8718.0,4.4,7.0,7.5,fouad.fassi@entreprise.ma,
+EMP0208,Soufiane Kabbaj,H,30.0,Production,Fès,Maroc,CDI,2014-01-05,12,8644.01,3.7,3.0,7.4,soufiane.kabbaj@entreprise.ma,
+EMP0059,Hamza El Amrani,H,36.0,IT,Rabat,Maroc,Freelance,2019-01-26,7,10269.83,3.6,5.0,9.5,hamza.elamrani@entreprise.ma,
+EMP0248,Anas El Amrani,H.,26.0,Support,Tanger,Maroc,Freelance,2021-02-23,5,7190.83,5.0,9.0,5.6,anas.elamrani@entreprise.ma,
+EMP0212,Amine Mansouri,H,35.0,Production,Tanger,Maroc,Freelance,2024-09-09,2,8718.0,4.0,14.0,5.5,amine.mansouri@entreprise.ma,
+EMP0065,Bilal Lahlou,H.,35.0,Production,Tanger,Maroc,CDD,2009-08-18,17,10088.25,3.5,14.0,7.8,bilal.lahlou@entreprise.ma,
+EMP0080,Ghita Fassi,F,33.0,Logistique,Fès,Maroc,Freelance,2021-01-01,5,5965.95,3.5,0.0,1.7,ghita.fassi@entreprise.ma,
+EMP0225,Yassine Lahlou,H,48.0,Marketing,  FÈS  ,Maroc,CDI,2015-01-05,11,10930.18,3.2,5.0,1.3,yassine.lahlou@entreprise.ma,
+EMP0053,Bilal Benali,H,50.0,Logistique,Marrakech,Maroc,Stage,2026-01-01,0,6123.99,2.5,13.0,9.6,bilal.benali@entreprise.ma,
+EMP0100,Yassine Cherkaoui,H,42.0,Ventes,Oujda,Maroc,Stage,2012-07-26,14,9209.65,3.5,13.0,5.8,test@@entreprise,
+EMP0035,Loubna Naciri,F,43.0,Production,Agadir,Maroc,CDD,2018-06-14,8,8330.22,4.2,19.0,1.8,loubna.naciri@entreprise.ma,
+EMP0079,Younes Lahlou,H,42.0,IT,Rabat,Maroc,Freelance,2013-01-20,13,12396.67,5.0,3.0,3.5,younes.lahlou@entreprise.ma,
+EMP0123,Amine Guerraoui,H,40.0,Logistique,Marrakech,Maroc,Freelance,2006-10-15,19,12366.55,3.6,9.0,2.4,amine.guerraoui@entreprise.ma,
+EMP0121,Rachid El Amrani,H,42.0,IT,Fès,Maroc,Stage,2016-08-29,10,9731.09,3.7,12.0,2.1,rachid.elamrani@entreprise.ma,
+EMP0185,Siham Sbai,F,35.0,IT,Tanger,Maroc,CDD,2015-04-22,11,8718.0,3.4,8.0,4.0,siham.sbai@entreprise.ma,
+EMP0179,Mehdi Tazi,H,37.0,Production,Tanger,Maroc,CDI,2024-01-10,2,6767.57,4.0,20.0,1.8,mehdi.tazi@entreprise.ma,
+EMP0168,Loubna Mansouri,F,42.0,Logistique,Meknès,Maroc,CDI,2017-07-30,9,8718.35,2.4,11.0,1.2,loubna.mansouri@entreprise.ma,
+EMP0221,Ghita Ferhat,F,41.0,Finance,Rabat,Maroc,Stage,2007-08-16,19,10971.17,3.5,0.0,2.5,ghita.ferhat@entreprise.ma,
+EMP0070,Mehdi Fassi,H,28.0,IT,Casablanca,Maroc,CDI,2019-11-27,6,10492.95,1.8,18.0,9.0,mehdi.fassi@entreprise.ma,
+EMP0174,Loubna Naciri,F,45.0,Support,Agadir,Maroc,Stage,2007-11-04,18,11296.89,2.2,8.0,5.6,loubna.naciri@entreprise.ma,
+EMP0029,Amine Alaoui,H,27.0,Finance,Oujda,Maroc,CDD,2020-01-21,6,8718.35,4.2,0.0,8.4,amine.alaoui@entreprise.ma,
+EMP0136,Meryem Ouahbi,F,35.0,RH,Casablanca,Maroc,Stage,2022-09-02,4,7874.23,4.4,0.0,6.7,meryem.ouahbi@entreprise.ma,
+EMP0132,Wafae Cherkaoui,F,34.0,Production,Rabat,Maroc,CDD,2023-01-29,3,7374.86,5.0,11.0,4.6,wafae.cherkaoui@entreprise.ma,
+EMP0166,Soufiane Ouahbi,H,22.0,FINANCE,Marrakech,Maroc,Stage,2025-03-14,1,9150.83,2.7,15.0,7.5,soufiane.ouahbi@entreprise.ma,
+EMP0043,Bilal Bennani,H,44.0,Support,Meknès,Maroc,CDI,2008-10-02,17,10593.04,2.4,2.0,8.3,bilal.bennani@entreprise.ma,
+EMP0024,Hind Ferhat,F,38.0,Finance,Oujda,Maroc,CDD,2007-12-08,18,12994.1,4.1,1.0,7.9,hind.ferhat@entreprise.ma,
+EMP0297,Wafae Ziani,F,31.0,Finance,Tanger,Maroc,CDD,2015-03-31,11,10578.63,2.7,0.0,5.0,wafae.ziani@entreprise.ma,
+EMP0223,Salma Ziani,F,30.0,Support,Agadir,Maroc,CDD,2016-01-06,10,8277.2,3.5,10.0,3.1,salma.ziani@entreprise.ma,
+EMP0183,Tariq Fassi,H,40.0,Production,Meknès,Maroc,CDD,2016-10-26,9,7962.57,4.0,14.0,8.7,tariq.fassi@entreprise.ma,
+EMP0088,Said Tazi,H,36.0,Finance,Oujda,Maroc,Stage,2020-06-07,6,8718.35,4.3,8.0,4.6,said.tazi@entreprise.ma,
+EMP0042,Khadija Chraibi,F,37.0,Logistique,Casablanca,Maroc,Stage,2018-09-04,8,7152.85,4.3,8.0,7.7,khadija.chraibi@entreprise.ma,
+EMP0101,Laila Haddad,F,33.0,Support,Casablanca,Maroc,Freelance,2012-08-17,14,8235.57,2.2,9.0,3.4,laila.haddad@entreprise.ma,
+EMP0277,Ghita Mansouri,F,26.0,Logistique,Tanger,Maroc,Stage,2024-10-10,1,5934.73,2.5,11.0,6.6,ghita.mansouri@entreprise.ma,
+EMP0095,Meryem Naciri,F,26.0,Logistique,Casablanca,Maroc,CDI,2021-12-08,4,7203.24,3.1,3.0,2.6,meryem.naciri@entreprise.ma,
+EMP0076,Fouad Guerraoui,H,21.0,RH,Rabat,Maroc,CDI,2025-04-18,1,6574.69,3.2,10.0,9.7,fouad.guerraoui@entreprise.ma,
+EMP0032,Tariq Ferhat,H,40.0,IT,Casablanca,Maroc,Freelance,2016-08-28,10,12473.66,3.7,13.0,1.1,tariq.ferhat@entreprise.ma,
+EMP0191,Anas Guerraoui,H,36.0,Finance,  OUJDA  ,Maroc,Stage,2018-08-31,8,9939.9,4.5,0.0,1.4,anas.guerraoui@entreprise.ma,
+EMP0192,Younes Tazi,H,38.0,Ventes,  FÈS  ,Maroc,Freelance,2024-07-04,2,6579.36,3.4,0.0,7.9,younes.tazi@entreprise.ma,
+EMP0094,Karim Ferhat,H,25.0,Logistique,Meknès,Maroc,Stage,2023-01-01,3,8718.0,3.5,6.0,5.3,karim.ferhat@entreprise.ma,
+EMP0046,Adil Ferhat,H,24.0,Logistique,Marrakech,Maroc,CDD,2022-07-08,4,5599.39,3.6,2.0,1.3,inconnu,
+EMP0162,Amine Berrada,H,42.0,Support,Oujda,Maroc,Freelance,2013-01-22,13,9244.93,4.5,14.0,8.6,amine.berrada@entreprise.ma,
+EMP0289,Salma Ferhat,F,46.0,Marketing,Meknès,Maroc,CDI,2025-05-10,1,8999.21,3.5,3.0,2.4,salma.ferhat@entreprise.ma,
+EMP0109,Youssef Guerraoui,H,29.0,Marketing,Fès,Maroc,CDI,2015-07-08,11,8718.35,3.9,2.0,9.4,youssef.guerraoui@entreprise.ma,
+EMP0106,Said Berrada,H,35.0,Production,Casablanca,Maroc,Freelance,2023-03-03,3,6851.89,3.2,6.0,2.4,said.berrada@entreprise.ma,
+EMP0150,Bilal Guerraoui,H,29.0,Production,Fès,Maroc,Freelance,2019-11-25,6,7165.49,2.5,8.0,3.5,bilal.guerraoui@entreprise.ma,
+EMP0030,Khadija Bennani,F,47.0,Logistique,Fès,Maroc,Freelance,2026-03-09,0,7831.33,3.2,6.0,9.1,khadija.bennani@entreprise.ma,
+EMP0182,Imane Ferhat,F,45.0,Logistique,Tanger,Maroc,Stage,2017-05-20,9,8324.51,4.6,1.0,6.1,imane.ferhat@entreprise.ma,
+EMP0110,Salma Alaoui,F,53.0,RH,Tanger,Maroc,Freelance,2012-07-29,14,11795.69,4.2,3.0,2.7,salma.alaoui@entreprise.ma,
+EMP0164,Siham Cherkaoui,F,42.0,IT,Casablanca,Maroc,CDI,2019-03-08,7,10857.08,3.9,6.0,9.7,siham.cherkaoui@entreprise.ma,
+EMP0028,Bilal Ziani,H,35.0,Marketing,Rabat,Maroc,CDI,2024-02-11,2,8718.0,3.5,7.0,2.2,inconnu,
+EMP0105,Naima Kabbaj,F,27.0,Marketing,Casablanca,Maroc,Freelance,2019-12-19,6,6893.76,4.2,19.0,4.2,naima.kabbaj@entreprise.ma,
+EMP0061,Youssef Tazi,H,33.0,logistique,Oujda,Maroc,Stage,2019-06-28,7,8020.65,3.7,4.0,1.6,youssef.tazi@entreprise.ma,
+EMP0147,Siham Naciri,F,20.0,RH,Marrakech,Maroc,CDI,2025-01-10,1,7734.81,2.5,18.0,6.0,siham.naciri@entreprise.ma,
+EMP0265,Soufiane Lahlou,H,28.0,Marketing,Meknès,Maroc,CDD,2026-05-14,0,8488.87,4.4,11.0,9.3,soufiane.lahlou@entreprise.ma,
+EMP0228,Amine Benali,H,35.0,Ventes,Meknès,Maroc,CDI,2019-12-08,6,7449.97,3.4,1.0,9.4,amine.benali@entreprise.ma,
+EMP0271,Mohamed Ferhat,H,35.0,Marketing,Tanger,Maroc,Stage,2009-07-14,17,8718.35,4.2,6.0,8.8,mohamed.ferhat@entreprise.ma,
+EMP0152,Ghita Mansouri,F,30.0,Logistique,Agadir,Maroc,Freelance,2015-08-10,11,8971.55,4.8,17.0,7.0,ghita.mansouri@entreprise.ma,
+EMP0001,Youssef Berrada,H,39.0,Marketing,Rabat,Maroc,CDI,2019-07-17,7,9139.39,4.0,17.0,2.4,youssef.berrada@entreprise.ma,
+EMP0272,Imane Idrissi,F,40.0,Support,Oujda,Maroc,CDI,2024-01-07,2,6479.68,3.1,6.0,4.6,imane.idrissi@entreprise.ma,
+EMP0089,Imane Idrissi,F,40.0,Ventes,Tanger,Maroc,Stage,2019-03-26,7,9344.91,2.7,12.0,2.2,imane.idrissi@entreprise.ma,
+EMP0078,Samira Tazi,F,55.0,Marketing,  MEKNÈS  ,Maroc,Stage,2014-12-29,11,12074.98,3.5,19.0,6.6,samira.tazi@entreprise.ma,
+EMP0124,Omar Ziani,H,35.0,Ventes,Casablanca,Maroc,Freelance,2019-05-19,7,7596.4,4.7,10.0,8.9,omar.ziani@entreprise.ma,
+EMP0096,Anas Berrada,H,22.0,RH,Tanger,Maroc,CDI,2025-05-25,1,8718.35,3.5,0.0,7.2,anas.berrada@entreprise.ma,
+EMP0012,Bilal Fassi,H,33.0,Marketing,Meknès,Maroc,Stage,2017-12-01,8,9001.22,2.3,14.0,1.6,bilal.fassi@entreprise.ma,
+EMP0115,Hind Alaoui,F,18.0,Logistique,Meknès,Maroc,CDI,2026-05-28,0,5162.48,4.0,8.0,8.5,pas_un_email,
+EMP0258,Hicham Kabbaj,H,43.0,Support,Fès,Maroc,Stage,2006-06-19,20,11383.24,3.7,4.0,6.2,hicham.kabbaj@entreprise.ma,
+EMP0220,Karim Idrissi,H,37.0,Finance,Casablanca,Maroc,Stage,2019-01-17,7,10016.81,2.2,7.0,8.8,karim.idrissi@entreprise.ma,
+EMP0253,Meryem Tazi,F,28.0,Logistique,Tanger,Maroc,Stage,2020-04-02,6,8015.94,3.3,15.0,7.0,meryem.tazi@entreprise.ma,
+EMP0299,Hicham Fassi,H,35.0,Marketing,Tanger,Maroc,CDI,2023-09-28,2,8652.59,4.2,4.0,8.8,hicham.fassi@entreprise.ma,
+EMP0279,Rachid Ziani,H.,36.0,Logistique,Marrakech,Maroc,CDD,2009-03-18,17,9780.33,3.0,6.0,7.2,rachid.ziani@entreprise.ma,
+EMP0020,Bilal Haddad,H,46.0,Logistique,Meknès,Maroc,Stage,2019-12-24,6,7066.44,1.4,10.0,3.0,bilal.haddad@entreprise.ma,
+EMP0170,Hicham Naciri,H,43.0,Logistique,Meknès,Maroc,Stage,2010-08-19,16,10051.09,2.2,0.0,7.6,hicham.naciri@entreprise.ma,
+EMP0240,Siham Ziani,F,23.0,Ventes,Rabat,Maroc,CDD,12/10/2021,4,8718.35,2.8,17.0,5.0,siham.ziani@entreprise.ma,
+EMP0278,Yassine Ferhat,H,26.0,Logistique,Marrakech,Maroc,CDI,2018-07-23,8,8133.75,2.9,7.0,10.0,yassine.ferhat@entreprise.ma,
+EMP0161,Adil Cherkaoui,H,34.0,Production,Tanger,Maroc,CDD,2024-08-29,2,6996.54,3.5,0.0,8.9,adil.cherkaoui@entreprise.ma,
+EMP0074,Youssef Alaoui,H,18.0,Marketing,Tanger,Maroc,CDD,2026-09-14,0,8756.03,3.3,7.0,5.2,youssef.alaoui@entreprise.ma,
+EMP0018,Fatima Tazi,F,39.0,Production,Casablanca,Maroc,CDD,2017-05-27,9,9176.55,3.7,9.0,2.7,fatima.tazi@entreprise.ma,
+EMP0063,Hajar Ziani,F,43.0,Finance,Fès,Maroc,CDD,2011-02-10,15,12495.84,4.2,11.0,3.5,hajar.ziani@entreprise.ma,
+EMP0250,Wafae Haddad,F,29.0,logistique,Oujda,Maroc,Stage,2021-06-29,5,7100.95,3.9,8.0,6.4,wafae.haddad@entreprise.ma,
+EMP0229,Hajar Cherkaoui,F,35.0,Ventes,Meknès,Maroc,Stage,2011-05-26,15,8651.44,4.2,10.0,5.1,hajar.cherkaoui@entreprise.ma,
+EMP0239,Tariq Ferhat,H,33.0,Marketing,Fès,Maroc,CDI,2014-12-18,11,10350.46,3.4,8.0,3.9,tariq.ferhat@entreprise.ma,
+EMP0230,Salma Benali,F,18.0,Finance,Meknès,Maroc,Freelance,2026-02-11,0,10850.2,2.8,10.0,1.3,salma.benali@entreprise.ma,
+EMP0284,Rachid Fassi,H,26.0,Marketing,Fès,Maroc,CDI,2020-04-25,6,8975.25,1.9,20.0,8.6,inconnu,
+EMP0048,Karim Mansouri,H,26.0,IT,Marrakech,Maroc,Freelance,2019-06-05,7,10482.15,4.7,8.0,2.9,karim.mansouri@entreprise.ma,
+EMP0251,Laila Guerraoui,F,35.0,Support,Fès,Maroc,Stage,2020-05-22,6,8718.35,2.9,4.0,6.5,laila.guerraoui@entreprise.ma,
+EMP0296,Nabil Naciri,H,48.0,Marketing,Agadir,Maroc,Stage,2010-12-21,15,8718.35,4.1,11.0,6.9,nabil.naciri@entreprise.ma,
+EMP0021,Rania Ziani,F,31.0,Support,Marrakech,Maroc,CDI,2025-05-21,1,5108.18,3.4,10.0,5.7,rania.ziani@entreprise.ma,
+EMP0141,Nabil Berrada,H,31.0,Marketing,Rabat,Maroc,CDD,2025-02-04,1,7452.85,2.4,3.0,5.6,nabil.berrada@entreprise.ma,
+EMP0193,Hicham Chraibi,H,30.0,Marketing,Casablanca,Maroc,Freelance,2019-04-01,7,10754.93,2.3,0.0,2.5,hicham.chraibi@entreprise.ma,
+EMP0131,Nadia Idrissi,F,51.0,Finance,Fès,Maroc,CDD,2009-03-25,17,8718.0,4.8,4.0,9.4,nadia.idrissi@entreprise.ma,
+EMP0216,Youssef Bennani,H.,20.0,Support,Rabat,Maroc,Stage,2024-03-10,2,7601.39,3.4,18.0,8.9,youssef.bennani@entreprise.ma,
+EMP0245,Fatima Sbai,F,28.0,Production,Meknès,Maroc,Stage,2016-08-01,10,8275.46,4.0,7.0,3.6,fatima.sbai@entreprise.ma,
+EMP0060,Loubna Idrissi,F,18.0,Logistique,Meknès,Maroc,CDD,2026-01-14,0,8718.35,3.0,20.0,5.9,loubna.idrissi@entreprise.ma,
+EMP0222,Wafae Haddad,F,38.0,Marketing,Rabat,Maroc,CDD,2012-12-07,13,8980.52,4.1,0.0,3.9,wafae.haddad@entreprise.ma,
+EMP0177,Adil Cherkaoui,H,30.0,RH,Meknès,Maroc,Freelance,2016-08-11,10,10006.35,3.7,0.0,5.6,adil.cherkaoui@entreprise.ma,
+EMP0056,Asmae Ferhat,F,34.0,IT,Meknès,Maroc,Freelance,2017-05-03,9,8718.35,2.5,7.0,4.9,asmae.ferhat@entreprise.ma,
+EMP0292,Amina Ferhat,F,41.0,Production,Oujda,Maroc,Stage,2017-03-16,9,9176.25,3.5,5.0,1.9,amina.ferhat@entreprise.ma,
+EMP0255,Anas Ferhat,H,35.0,Ventes,Fès,Maroc,CDD,2008-10-07,17,11081.04,3.4,8.0,1.2,anas.ferhat@entreprise.ma,
+EMP0198,Amina Cherkaoui,F,37.0,RH,Meknès,Maroc,Freelance,2025-05-25,1,7065.95,4.1,12.0,5.6,amina.cherkaoui@entreprise.ma,
+EMP0069,Bilal Ouahbi,H,45.0,Support,Agadir,Maroc,Freelance,2026-03-09,0,6133.33,4.0,11.0,1.8,bilal.ouahbi@entreprise.ma,
+EMP0211,Rania Ziani,F,53.0,IT,Meknès,Maroc,Stage,2014-11-17,11,11198.65,4.9,9.0,1.7,rania.ziani@entreprise.ma,
+EMP0233,Ghita Alaoui,F,42.0,Finance,Fès,Maroc,Freelance,2023-08-31,3,9646.55,3.6,10.0,5.5,ghita.alaoui@entreprise.ma,
+EMP0202,Khadija Mansouri,F,29.0,Production,Agadir,Maroc,CDI,2022-09-17,4,7796.6,3.3,7.0,1.7,khadija.mansouri@entreprise.ma,
+EMP0169,Nadia Guerraoui,F,35.0,Support,Meknès,Maroc,Stage,2015-08-13,11,9102.38,3.1,16.0,5.3,nadia.guerraoui@entreprise.ma,
+EMP0186,Wafae Idrissi,F,35.0,Marketing,Rabat,Maroc,Stage,2024-07-07,2,8395.96,3.8,10.0,5.6,wafae.idrissi@entreprise.ma,
+EMP0036,Asmae Fassi,F,22.0,Ventes,Rabat,Maroc,CDI,2023-04-17,3,6632.58,4.2,6.0,6.7,asmae.fassi@entreprise.ma,
+EMP0130,Khadija Naciri,F,51.0,Production,Fès,Maroc,Stage,2022-08-10,4,7472.22,3.7,10.0,2.4,khadija.naciri@entreprise.ma,
